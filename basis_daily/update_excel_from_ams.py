@@ -6,6 +6,7 @@ import csv
 import re
 import shutil
 from collections import defaultdict
+import statistics
 from datetime import datetime, date
 from pathlib import Path
 
@@ -118,7 +119,7 @@ def channel_prefixes(channel: str) -> list[str]:
         return ["bargeloadingelevators", "barge"]
     if "gulf" in c or "export" in c:
         return ["soybeans", "corn", "export", "exportelevators", "export elevators"]
-    if "terminal" in c and "mill" not in c and "processor" not in c:
+    if "terminal elevator" in c or ( "terminal" in c and "mill" not in c and "processor" not in c):
         # Minneapolis Daily Grain Report (3046) Terminal Elevators
         return ["terminals", "terminalelevators", "millsproc", "millsandprocessors"]
     if "mill" in c or "terminal" in c or "processor" in c:
@@ -257,6 +258,16 @@ def score_sheet(sheet_name: str, location: str, channel: str, last: date | None,
 
     # slight preference for longer sheet names (canonical long form)
     score += min(len(sheet_name), 40) * 0.05
+
+    # Minneapolis AMS 3046 / Terminal Elevators → prefer Terminals sheet over MillsProc
+    loc_l = (location or "").strip().lower()
+    ch_l = (channel or "").strip().lower()
+    sn_l = sheet_name.lower()
+    if "minneapolis" in loc_l or "terminal elevator" in ch_l:
+        if sn_l in ("terminals", "terminalelevators") or pre in ("terminals", "terminalelevators"):
+            score += 50
+        elif "mills" in sn_l or pre.startswith("mills"):
+            score -= 25
     return score
 
 
@@ -398,6 +409,11 @@ def main() -> None:
         for sn in sheet_names:
             lasts[sn] = last_date_in_sheet(wb[sn])
 
+        # Map each CSV row to a sheet, then COMBINE duplicates that hit the same
+        # sheet+date (e.g. IN soy Ohio River has two Current bids: DLVD-T and
+        # DLVD-T/R). Last-write-wins previously caused fake day jumps like -14.5→-25.5.
+        pending: dict[tuple[str, date], list] = defaultdict(list)
+        # pending[(sheet, date)] -> list of (mid, change_mid, meta_str, score)
         for r in items:
             try:
                 target = datetime.strptime(r["report_date"], "%Y-%m-%d").date()
@@ -428,15 +444,33 @@ def main() -> None:
                 stats["unmatched"] += 1
                 continue
 
+            meta = (
+                f"{r['state']} {r['commodity']} {channel} {location} "
+                f"mid={mid} change={change_mid} raw={r.get('basis_change_raw','')} "
+                f"(score={best_score:.1f})"
+            )
+            pending[(best, target)].append((mid, change_mid, meta, best_score))
+
+        for (best, target), vals in sorted(pending.items(), key=lambda x: (x[0][0], x[0][1])):
+            mids = [v[0] for v in vals]
+            chs = [v[1] for v in vals if v[1] is not None]
+            mid = float(statistics.median(mids))
+            change_mid = float(statistics.median(chs)) if chs else None
+            if len(vals) > 1:
+                stats["combined_dup_rows"] += len(vals)
+                L(
+                    f"combine x{len(vals)}: {wb_path.name} :: {best} {target} "
+                    f"mids={mids} -> {mid}; changes={[v[1] for v in vals]} -> {change_mid}"
+                )
+                for v in vals:
+                    L(f"    src: {v[2]}")
             action = append_or_update(wb[best], target, mid, change_mid)
             stats[action] += 1
             stats["sheets_touched"] += 1 if action != "skip" else 0
             if action != "skip":
                 lasts[best] = target  # update cache
                 L(
-                    f"{action}: {wb_path.name} :: {best} <- {r['state']} {r['commodity']} {channel} {location} "
-                    f"{target} mid={mid} change={change_mid} raw={r.get('basis_change_raw','')} "
-                    f"(score={best_score:.1f})"
+                    f"{action}: {wb_path.name} :: {best} <- {target} mid={mid} change={change_mid}"
                 )
 
         wb.save(wb_path)

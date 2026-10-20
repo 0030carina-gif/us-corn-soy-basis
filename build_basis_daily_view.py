@@ -206,19 +206,46 @@ def load_crop(folder: str, crop: str) -> dict:
         by_kind_dates: dict[str, dict[date, list[float]]] = {
             "country": {}, "barge": {}, "export": {}, "mills": {}
         }
+        # Keep per-sheet maps so day-change = median of per-sheet deltas
+        # (sheets present on BOTH today and previous agg date). Avoids fake
+        # jumps when the set of sheets with a value differs by date.
+        by_kind_sheet_maps: dict[str, list[dict[date, float]]] = {
+            "country": [], "barge": [], "export": [], "mills": []
+        }
         used = []
         for (kind, _loc), (sheet, series) in grouped.items():
             used.append(f"{kind}:{sheet}:{series[0][0].isoformat()}→{series[-1][0].isoformat()}:{len(series)}")
             bucket = by_kind_dates[kind]
+            smap = {d: v for d, v in series}
+            by_kind_sheet_maps[kind].append(smap)
             for d, v in series:
                 bucket.setdefault(d, []).append(v)
         for kind, bucket in by_kind_dates.items():
             if not bucket:
                 continue
             days = sorted(bucket)
+            values = [median(bucket[d]) for d in days]
+            sheet_maps = by_kind_sheet_maps[kind]
+            changes: list[float | None] = []
+            for i, d in enumerate(days):
+                if i == 0:
+                    changes.append(None)
+                    continue
+                prev = days[i - 1]
+                deltas = []
+                for sm in sheet_maps:
+                    if d in sm and prev in sm:
+                        deltas.append(sm[d] - sm[prev])
+                if deltas:
+                    changes.append(median(deltas))
+                elif values[i] is not None and values[i - 1] is not None:
+                    changes.append(round(values[i] - values[i - 1], 2))
+                else:
+                    changes.append(None)
             layers[kind].setdefault(state, {
                 "dates": [d.isoformat() for d in days],
-                "values": [median(bucket[d]) for d in days],
+                "values": values,
+                "changes": changes,
             })
         coverage.append({
             "file": path.name,
@@ -367,13 +394,16 @@ def build() -> None:
                     lat, lon = STATE_GEO[code]
                     label = code
                 x, y = xy(lon, lat)
-                out[kind][code] = {
+                entry = {
                     "x": x,
                     "y": y,
                     "label": label,
                     "dates": series["dates"],
                     "values": series["values"],
                 }
+                if series.get("changes") is not None:
+                    entry["changes"] = series["changes"]
+                out[kind][code] = entry
         return out
 
     payload = {
@@ -424,7 +454,7 @@ def render_md(soy, corn, asof: str) -> str:
         "",
         f"页面只读本地工作簿，最新观测日 **{asof}**。基差取各表 `Current` 列，单位 ¢/bu。",
         "同一州、同一地点若有长短两套表（例如 `CountryElevators_*` 与 `Country_*`），保留观测更多的那一套，再按日取各分区中位数作为州序列。",
-        "日变动 = 所选日期的基差 − 该序列上一个有数的交易日。",
+        "日变动优先用各分区表「当日−上一有数日」变动的中位数（避免某张表某日缺数时，州中位数对中位数出现假跳变）；若无法按表对齐则回退为州序列中位数之差。",
         "",
         "## 读过的文件",
         "",
@@ -616,8 +646,13 @@ function pointAt(series, iso) {
   const gap = (new Date(iso) - new Date(d)) / 86400000;
   if (gap > 10) return null;
   const v = series.values[i];
-  const prev = i > 0 ? series.values[i-1] : null;
-  const chg = prev == null ? null : Math.round((v - prev) * 100) / 100;
+  let chg = null;
+  if (series.changes && series.changes[i] != null && series.changes[i] !== undefined) {
+    chg = Math.round(Number(series.changes[i]) * 100) / 100;
+  } else {
+    const prev = i > 0 ? series.values[i-1] : null;
+    chg = prev == null ? null : Math.round((v - prev) * 100) / 100;
+  }
   return {d, v, chg};
 }
 
