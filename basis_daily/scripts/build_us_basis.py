@@ -232,12 +232,21 @@ def is_continuation_line(line: str) -> bool:
 
 
 def extract_delivery(line: str) -> str:
-    # Prefer token near end of line
-    for tok in ("Current", "Nov¹", "Nov²", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"):
-        if re.search(rf"\b{re.escape(tok)}\b", line):
-            return tok.replace("¹", "").replace("²", "")
+    # Prefer token near end of line. Strip superscripts so Oct² / Nov¹ match \bOct\b.
+    norm = (
+        (line or "")
+        .replace("¹", "")
+        .replace("²", "")
+        .replace("³", "")
+        .replace("¹", "")
+        .replace("²", "")
+        .replace("³", "")
+    )
+    for tok in ("Current", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"):
+        if re.search(rf"\b{tok}\b", norm):
+            return tok
     # month ranges like "Jun - Jul"
-    m = re.search(r"\b([A-Z][a-z]{2})\s*-\s*([A-Z][a-z]{2})\b", line)
+    m = re.search(r"\b([A-Z][a-z]{2})\s*-\s*([A-Z][a-z]{2})\b", norm)
     if m:
         return f"{m.group(1)}-{m.group(2)}"
     return ""
@@ -383,7 +392,17 @@ def parse_pdf_text(text: str, state: str, report_id: str) -> list[dict]:
 
         cm = COMMODITY_RE.search(stripped)
         if cm:
-            commodity = "Corn" if cm.group(1).lower() == "corn" else "Soybeans"
+            label = cm.group(0).lower()
+            kind = cm.group(1).lower()
+            # Track #2 Yellow Corn + Soybeans only. White Corn is a thin specialty
+            # market whose Ohio River / Pennyrile bids were contaminating Yellow sheets
+            # (e.g. IN barge 45 white vs -24 yellow → fake median/last-write swings).
+            if kind == "corn" and re.search(r"white\s+corn", label):
+                commodity = None
+                pending_loc = []
+                i += 1
+                continue
+            commodity = "Corn" if kind == "corn" else "Soybeans"
             pending_loc = []
             i += 1
             continue
