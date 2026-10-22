@@ -220,7 +220,7 @@ function drawMap() {
   rows.slice(0, 18).forEach(r => {
     const tr = document.createElement("tr");
     const sign = r.chg > 0 ? "+" : "";
-    tr.innerHTML = `<td>${r.label}</td><td>${r.kind.split(" ")[0]}</td><td>${r.v}</td><td>${sign}${r.chg}</td>`;
+    tr.innerHTML = `<td>${r.label}</td><td>${r.kind.split(" ")[0]}</td><td>${r.v}</td><td style="color:${r.chg > 0 ? '#d62728' : (r.chg < 0 ? '#2ca02c' : 'inherit')};font-weight:600">${sign}${r.chg}</td>`;
     tb.appendChild(tr);
   });
   document.getElementById("missing").textContent =
