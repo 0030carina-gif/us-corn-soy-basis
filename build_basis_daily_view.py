@@ -231,17 +231,16 @@ def load_crop(folder: str, crop: str) -> dict:
                 if i == 0:
                     changes.append(None)
                     continue
-                prev = days[i - 1]
+                # Only sheets with a fresh Current on d; delta vs that sheet's
+                # own previous dated value (its last trading day with data).
                 deltas = []
                 for sm in sheet_maps:
-                    if d in sm and prev in sm:
-                        deltas.append(sm[d] - sm[prev])
-                if deltas:
-                    changes.append(median(deltas))
-                elif values[i] is not None and values[i - 1] is not None:
-                    changes.append(round(values[i] - values[i - 1], 2))
-                else:
-                    changes.append(None)
+                    if d not in sm:
+                        continue
+                    earlier = [x for x in sm if x < d]
+                    if earlier:
+                        deltas.append(sm[d] - sm[max(earlier)])
+                changes.append(median(deltas) if deltas else None)
             layers[kind].setdefault(state, {
                 "dates": [d.isoformat() for d in days],
                 "values": values,
@@ -647,11 +646,12 @@ function pointAt(series, iso) {
   if (gap > 10) return null;
   const v = series.values[i];
   let chg = null;
+  if (d !== iso) return {{d, v, chg: null, stale: true}};
   if (series.changes && series.changes[i] != null && series.changes[i] !== undefined) {
     chg = Math.round(Number(series.changes[i]) * 100) / 100;
   } else {
     const prev = i > 0 ? series.values[i-1] : null;
-    chg = prev == null ? null : Math.round((v - prev) * 100) / 100;
+    chg = null;
   }
   return {d, v, chg};
 }
@@ -709,11 +709,12 @@ function drawMap() {
     let any = false;
     Object.entries(states).forEach(([code, series]) => {{
       const pt = pointAt(series, asofInput.value);
-      if (!pt || pt.chg == null) return;
+      if (!pt) return;
       any = true;
-      const mag = Math.abs(pt.chg);
+      const fresh = pt.chg != null;
+      const mag = fresh ? Math.abs(pt.chg) : 0;
       const r = 6 + 16 * Math.min(mag / 25, 1);
-      const fill = mag < 0.5 ? "#8b939c" : (pt.chg > 0 ? "#E10600" : "#1F8A4C");
+      const fill = (!fresh || mag < 0.5) ? "#8b939c" : (pt.chg > 0 ? "#E10600" : "#1F8A4C");
       const cx = series.x + (offsets[kind] || 0);
       const cy = series.y + (yoff[kind] || 0);
       addMarker(svg, el, kind, cx, cy, r, fill);
@@ -725,13 +726,18 @@ function drawMap() {
     }});
     if (!any) missing.push(LAYER_NAME[kind] + "：所选日期附近数据缺失");
   }});
-  rows.sort((a,b) => Math.abs(b.chg) - Math.abs(a.chg));
+  rows.sort((a,b) => (a.chg == null) - (b.chg == null) || Math.abs(b.chg||0) - Math.abs(a.chg||0));
   const tb = document.querySelector("#movers tbody");
   tb.replaceChildren();
   rows.slice(0, 18).forEach(r => {{
     const tr = document.createElement("tr");
+    if (r.chg == null) {{
+      tr.style.color = "#9aa3ad";
+      tr.innerHTML = `<td>${{r.label}}</td><td>${{r.kind.split(" ")[0]}}</td><td>${{r.v}} <span style="font-size:10px">(${{r.d.slice(5)}})</span></td><td>—</td>`;
+    }} else {{
     const sign = r.chg > 0 ? "+" : "";
     tr.innerHTML = `<td>${{r.label}}</td><td>${{r.kind.split(" ")[0]}}</td><td>${{r.v}}</td><td style="color:${{r.chg > 0 ? '#d62728' : (r.chg < 0 ? '#2ca02c' : 'inherit')}};font-weight:600">${{sign}}${{r.chg}}</td>`;
+    }}
     tb.appendChild(tr);
   }});
   document.getElementById("missing").textContent =
