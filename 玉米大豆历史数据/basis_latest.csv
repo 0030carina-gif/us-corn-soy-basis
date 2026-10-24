@@ -1,0 +1,267 @@
+report_date,report_id,state,location,commodity,channel,basis_low,basis_high,basis_mid,basis_change_low,basis_change_high,basis_change_mid,basis_change_raw,basis_unit,futures_month,price_avg,delivery
+2026-10-22,3192,IL,North Central,Corn,Country Elevators,-43.0,-30.0,-36.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.2413,Current
+2026-10-22,3192,IL,Southwest,Corn,Country Elevators,-65.0,-25.0,-45.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.2325,Current
+2026-10-22,3192,IL,South Central,Corn,Country Elevators,-37.0,-18.0,-27.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.333,Current
+2026-10-22,3192,IL,North,Corn,Country Elevators,-40.0,-20.0,-30.0,0.0,5.0,2.5,UNCH-UP 5.00,cents/bu,Z,4.3079,Current
+2026-10-22,3192,IL,West,Corn,Country Elevators,-46.0,-26.0,-36.0,-1.0,0.0,-0.5,DN 1.00-UNCH,cents/bu,Z,4.2167,Current
+2026-10-22,3192,IL,Wabash,Corn,Country Elevators,-35.0,-25.0,-30.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.2925,Current
+2026-10-22,3192,IL,Little Egypt,Corn,Country Elevators,-43.0,15.0,-14.0,0.0,4.0,2.0,UP 4.00-UNCH,cents/bu,Z,4.4017,Current
+2026-10-22,3192,IL,Central,Corn,Mills & Processors,-30.0,0.0,-15.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.48,Current
+2026-10-22,3192,IL,Chicago,Corn,Mills & Processors,0.0,5.0,2.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.63,Current
+2026-10-22,3192,IL,Mississippi River,Corn,Barge,13.0,13.0,13.0,3.0,3.0,3.0,UP 3.00,cents/bu,Z,4.735,Current
+2026-10-22,3192,IL,North Illinois River,Corn,Barge,-36.0,-25.0,-30.5,0.0,5.0,2.5,UNCH-UP 5.00,cents/bu,Z,4.3117,Current
+2026-10-22,3192,IL,South Illinois River,Corn,Barge,-27.0,-22.0,-24.5,0.0,5.0,2.5,UP 5.00-UNCH,cents/bu,Z,4.365,Current
+2026-10-22,3192,IL,North Central,Soybeans,Country Elevators,-42.0,-15.0,-28.5,0.0,0.0,0.0,UNCH,cents/bu,X,12.1913,Current
+2026-10-22,3192,IL,Southwest,Soybeans,Country Elevators,-50.0,-16.0,-33.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.2214,Current
+2026-10-22,3192,IL,South Central,Soybeans,Country Elevators,-47.0,-19.0,-33.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.2293,Current
+2026-10-22,3192,IL,North,Soybeans,Country Elevators,-60.0,-40.0,-50.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.0317,Current
+2026-10-22,3192,IL,West,Soybeans,Country Elevators,-57.0,-43.0,-50.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.015,Current
+2026-10-22,3192,IL,Wabash,Soybeans,Country Elevators,-45.0,-23.0,-34.0,0.0,5.0,2.5,UNCH-UP 5.00,cents/bu,X,12.1867,Current
+2026-10-22,3192,IL,Little Egypt,Soybeans,Country Elevators,-80.0,20.0,-30.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.24,Current
+2026-10-22,3192,IL,Chicago,Soybeans,Terminal Elevators,-20.0,15.0,-2.5,0.0,0.0,0.0,UNCH,cents/bu,X,12.505,Current
+2026-10-22,3192,IL,Central,Soybeans,Mills & Processors,-22.0,20.0,-1.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.606,Current
+2026-10-22,3192,IL,Mississippi River,Soybeans,Barge,32.0,32.0,32.0,10.0,10.0,10.0,UP 10.00,cents/bu,X,12.85,Current
+2026-10-22,3192,IL,North Illinois River,Soybeans,Barge,-323.0,-20.0,-171.5,-292.0,3.0,-144.5,DN 292.00-UP 3.00,cents/bu,X,11.7817,Current
+2026-10-22,3192,IL,South Illinois River,Soybeans,Barge,-30.0,-20.0,-25.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.305,Current
+2026-10-22,2850,IA,Northwest,Corn,Country Elevators,-45.0,-35.0,-40.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.1936,Current
+2026-10-22,2850,IA,North Central,Corn,Country Elevators,-48.0,-40.0,-44.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.171,Current
+2026-10-22,2850,IA,Northeast,Corn,Country Elevators,-63.0,-35.0,-49.0,-1.0,0.0,-0.5,DN 1.00-UNCH,cents/bu,Z,4.125,Current
+2026-10-22,2850,IA,Southwest,Corn,Country Elevators,-45.0,-30.0,-37.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.2007,Current
+2026-10-22,2850,IA,South Central,Corn,Country Elevators,-40.0,-35.0,-37.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.2236,Current
+2026-10-22,2850,IA,Southeast,Corn,Country Elevators,-65.0,-35.0,-50.0,-14.0,0.0,-7.0,DN 14.00-UNCH,cents/bu,Z,4.1633,Current
+2026-10-22,2850,IA,Southwest,Corn,Terminal Elevators,-27.0,-15.0,-21.0,-2.0,0.0,-1.0,DN 2.00-UNCH,cents/bu,Z,4.395,Current
+2026-10-22,2850,IA,Northwest,Soybeans,Country Elevators,-68.0,-45.0,-56.5,0.0,0.0,0.0,UNCH,cents/bu,X,11.9157,Current
+2026-10-22,2850,IA,North Central,Soybeans,Country Elevators,-82.0,-60.0,-71.0,0.0,4.0,2.0,UP 4.00-UNCH,cents/bu,X,11.84,Current
+2026-10-22,2850,IA,Northeast,Soybeans,Country Elevators,-90.0,-63.0,-76.5,-6.0,0.0,-3.0,DN 6.00-UNCH,cents/bu,X,11.7611,Current
+2026-10-22,2850,IA,Southwest,Soybeans,Country Elevators,-90.0,-65.0,-77.5,0.0,0.0,0.0,UNCH,cents/bu,X,11.7871,Current
+2026-10-22,2850,IA,South Central,Soybeans,Country Elevators,-100.0,-68.0,-84.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.7714,Current
+2026-10-22,2850,IA,Southeast,Soybeans,Country Elevators,-78.0,-55.0,-66.5,2.0,5.0,3.5,UP 2.00-UP 5.00,cents/bu,X,11.855,Current
+2026-10-22,2850,IA,Southwest,Soybeans,Terminal Elevators,-80.0,-80.0,-80.0,-10.0,-10.0,-10.0,DN 10.00,cents/bu,X,11.73,Current
+2026-10-22,2850,IA,(statewide),Soybeans,Mills & Processors,-60.0,-25.0,-42.5,-5.0,0.0,-2.5,DN 5.00-UNCH,cents/bu,X,12.07,Current
+2026-10-22,3043,IA-MN,North Iowa MS,Corn,Barge,-50.0,-25.0,-37.5,0.0,5.0,2.5,UNCH-UP 5.00,cents/bu,Z,4.2225,Current
+2026-10-22,3043,IA-MN,River South Iowa MS,Corn,Barge,-50.0,-40.0,-45.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.155,Current
+2026-10-22,3043,IA-MN,River South Minnesota,Corn,Barge,-65.0,-64.0,-64.5,0.0,0.0,0.0,UNCH,cents/bu,Z,3.9583,Current
+2026-10-22,3043,IA-MN,North Iowa MS,Soybeans,Barge,-54.0,-35.0,-44.5,3.0,4.0,3.5,UP 4.00-UP 3.00,cents/bu,X,12.095,Current
+2026-10-22,3043,IA-MN,River South Iowa MS,Soybeans,Barge,-49.0,-40.0,-44.5,0.0,0.0,0.0,UNCH,cents/bu,X,12.0733,Current
+2026-10-22,3043,IA-MN,River South Minnesota,Soybeans,Barge,-65.0,-60.0,-62.5,0.0,0.0,0.0,UNCH,cents/bu,X,11.9067,Current
+2026-10-22,3147,LA,Gulf Coast Ports,Corn,Gulf/Export,82.0,86.0,84.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.445,Current
+2026-10-22,3147,LA,Gulf Coast Ports,Soybeans,Gulf/Export,95.0,97.0,96.0,0.0,0.0,0.0,UNCH,cents/bu,X,13.49,Current
+2026-10-22,3225,NE,Northwest,Corn,Country Elevators,-4.0,40.0,18.0,0.0,5.0,2.5,UNCH-UP 5.00,cents/bu,Z,4.7971,Current
+2026-10-22,3225,NE,Northeast,Corn,Country Elevators,-40.0,-38.0,-39.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.215,Current
+2026-10-22,3225,NE,Southwest,Corn,Country Elevators,-20.0,8.0,-6.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.575,Current
+2026-10-22,3225,NE,Southeast,Corn,Country Elevators,-45.0,-33.0,-39.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.209,Current
+2026-10-22,3225,NE,South,Corn,Country Elevators,-25.0,-23.0,-24.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.3617,Current
+2026-10-22,3225,NE,East,Corn,Country Elevators,-56.0,-38.0,-47.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.1328,Current
+2026-10-22,3225,NE,Central,Corn,Country Elevators,-45.0,-20.0,-32.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.325,Current
+2026-10-22,3225,NE,Northwest,Soybeans,Country Elevators,-145.0,-75.0,-110.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.5633,Current
+2026-10-22,3225,NE,Southwest,Soybeans,Country Elevators,-80.0,-75.0,-77.5,0.0,0.0,0.0,UNCH,cents/bu,X,11.7675,Current
+2026-10-22,3225,NE,Southeast,Soybeans,Country Elevators,-72.0,-65.0,-68.5,0.0,3.0,1.5,UP 3.00-UNCH,cents/bu,X,11.866,Current
+2026-10-22,3225,NE,South,Soybeans,Country Elevators,-65.0,-60.0,-62.5,-10.0,0.0,-5.0,UNCH-DN 10.00,cents/bu,X,11.8967,Current
+2026-10-22,3225,NE,East,Soybeans,Country Elevators,-90.0,-62.0,-76.0,-22.0,-2.0,-12.0,DN 22.00-DN 2.00,cents/bu,X,11.835,Current
+2026-10-22,3225,NE,Central,Soybeans,Country Elevators,-90.0,-50.0,-70.0,-5.0,0.0,-2.5,DN 5.00-UNCH,cents/bu,X,11.85,Current
+2026-10-22,3463,IN,Northwest,Corn,Country Elevators,-30.0,10.0,-10.0,5.0,10.0,7.5,UP 5.00-UP 10.00,cents/bu,Z,4.455,Current
+2026-10-22,3463,IN,Northeast,Corn,Country Elevators,-22.0,-22.0,-22.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.385,Current
+2026-10-22,3463,IN,Southwest,Corn,Country Elevators,-23.0,-23.0,-23.0,7.0,7.0,7.0,UP 7.00,cents/bu,Z,4.375,Current
+2026-10-22,3463,IN,North,Corn,Country Elevators,-45.0,-24.0,-34.5,0.0,1.0,0.5,UNCH-UP 1.00,cents/bu,Z,4.295,Current
+2026-10-22,3463,IN,East,Corn,Country Elevators,-35.0,-15.0,-25.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.361,Current
+2026-10-22,3463,IN,West,Corn,Country Elevators,-38.0,-20.0,-29.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.2821,Current
+2026-10-22,3463,IN,Central,Corn,Country Elevators,-49.0,-20.0,-34.5,5.0,5.0,5.0,UP 5.00,cents/bu,Z,4.2779,Current
+2026-10-22,3463,IN,North,Corn,Terminal Elevators,-20.0,-20.0,-20.0,5.0,5.0,5.0,UP 5.00,cents/bu,Z,4.405,Current
+2026-10-22,3463,IN,Ohio River,Corn,Barge,-36.0,1.0,-17.5,-2.0,4.0,1.0,DN 2.00-UP 4.00,cents/bu,Z,4.5017,Current
+2026-10-22,3463,IN,Northwest,Soybeans,Country Elevators,-65.0,-65.0,-65.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.88,Current
+2026-10-22,3463,IN,Northeast,Soybeans,Country Elevators,-28.0,-28.0,-28.0,5.0,5.0,5.0,UP 5.00,cents/bu,X,12.25,Current
+2026-10-22,3463,IN,Southwest,Soybeans,Country Elevators,-25.0,-25.0,-25.0,5.0,5.0,5.0,UP 5.00,cents/bu,X,12.28,Current
+2026-10-22,3463,IN,North,Soybeans,Country Elevators,-50.0,-20.0,-35.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.1175,Current
+2026-10-22,3463,IN,East,Soybeans,Country Elevators,-58.0,-25.0,-41.5,-8.0,0.0,-4.0,DN 8.00-UNCH,cents/bu,X,12.104,Current
+2026-10-22,3463,IN,West,Soybeans,Country Elevators,-54.0,-45.0,-49.5,0.0,0.0,0.0,UNCH,cents/bu,X,12.0429,Current
+2026-10-22,3463,IN,Central,Soybeans,Country Elevators,-70.0,-30.0,-50.0,0.0,5.0,2.5,UNCH-UP 5.00,cents/bu,X,12.0586,Current
+2026-10-22,3463,IN,(statewide),Soybeans,Mills & Processors,-30.0,5.0,-12.5,5.0,10.0,7.5,UP 5.00-UP 10.00,cents/bu,X,12.405,Current
+2026-10-22,3463,IN,Ohio River,Soybeans,Barge,15.0,15.0,15.0,5.0,5.0,5.0,UP 5.00,cents/bu,X,12.68,Current
+2026-10-22,3463,IN,Ohio River,Soybeans,Barge,-9.0,5.0,-2.0,5.0,7.0,6.0,UP 7.00-UP 5.00,cents/bu,X,12.51,Current
+2026-10-22,2851,OH,East,Corn,Country Elevators,-65.0,-55.0,-60.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.0217,Current
+2026-10-22,2851,OH,Toledo - On River,Corn,Terminal Elevators,-20.0,-15.0,-17.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.4383,Current
+2026-10-22,2851,OH,Toledo - Off River,Corn,Terminal Elevators,-25.0,-25.0,-25.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.355,Current
+2026-10-22,2851,OH,Ohio River,Corn,Barge,-21.0,-20.0,-20.5,-1.0,6.0,2.5,UP 6.00-DN 1.00,cents/bu,Z,4.3983,Current
+2026-10-22,2851,OH,East,Soybeans,Country Elevators,-75.0,-60.0,-67.5,0.0,0.0,0.0,UNCH,cents/bu,X,11.8425,Current
+2026-10-22,2851,OH,Central,Soybeans,Country Elevators,-20.0,-20.0,-20.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.33,Current
+2026-10-22,2851,OH,Toledo - On River,Soybeans,Terminal Elevators,-35.0,-30.0,-32.5,-5.0,0.0,-2.5,DN 5.00-UNCH,cents/bu,X,12.2133,Current
+2026-10-22,2851,OH,Toledo - Off River,Soybeans,Terminal Elevators,-40.0,-30.0,-35.0,-5.0,0.0,-2.5,DN 5.00-UNCH,cents/bu,X,12.18,Current
+2026-10-22,2851,OH,(statewide),Soybeans,Mills & Processors,-20.0,-10.0,-15.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.3675,Current
+2026-10-22,2851,OH,Ohio River,Soybeans,Barge,-14.0,-4.0,-9.0,7.0,13.0,10.0,UP 13.00-UP 7.00,cents/bu,X,12.43,Current
+2026-10-22,2932,MO,Northwest,Corn,Country Elevators,-60.0,-25.0,-42.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.18,Current
+2026-10-22,2932,MO,North Central,Corn,Country Elevators,-50.0,-50.0,-50.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.105,Current
+2026-10-22,2932,MO,Southwest,Corn,Country Elevators,-50.0,-40.0,-45.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.155,Current
+2026-10-22,2932,MO,Central,Corn,Country Elevators,-40.0,-40.0,-40.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.205,Current
+2026-10-22,2932,MO,West Central,Corn,Country Elevators,-40.0,-30.0,-35.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.255,Current
+2026-10-22,2932,MO,Northeast Missouri,Corn,Barge,-36.0,-35.0,-35.5,1.0,2.0,1.5,UP 2.00-UP 1.00,cents/bu,Z,4.2517,Current
+2026-10-22,2932,MO,River Southeast Missouri,Corn,Barge,0.0,10.0,5.0,0.0,4.0,2.0,UP 4.00-UNCH,cents/bu,Z,4.6383,Current
+2026-10-22,2932,MO,St. Louis MS River,Corn,Mills & Processors,12.0,14.0,13.0,2.0,4.0,3.0,UP 4.00-UP 2.00,cents/bu,Z,4.735,Current
+2026-10-22,2932,MO,St. Joseph,Corn,Mills & Processors,-35.0,-35.0,-35.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.255,Current
+2026-10-22,2932,MO,Kansas City,Corn,Mills & Processors,-5.0,-5.0,-5.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.555,Current
+2026-10-22,2932,MO,Northwest,Soybeans,Country Elevators,-65.0,-45.0,-55.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.98,Current
+2026-10-22,2932,MO,North Central,Soybeans,Country Elevators,-70.0,-50.0,-60.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.93,Current
+2026-10-22,2932,MO,Northeast,Soybeans,Country Elevators,-70.0,-70.0,-70.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.83,Current
+2026-10-22,2932,MO,Southwest,Soybeans,Country Elevators,-55.0,-45.0,-50.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.03,Current
+2026-10-22,2932,MO,Central,Soybeans,Country Elevators,-50.0,-45.0,-47.5,0.0,5.0,2.5,UP 5.00-UNCH,cents/bu,X,12.0633,Current
+2026-10-22,2932,MO,West Central,Soybeans,Country Elevators,-55.0,-45.0,-50.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.03,Current
+2026-10-22,2932,MO,Northeast Missouri,Soybeans,Barge,-38.0,-35.0,-36.5,0.0,3.0,1.5,UNCH-UP 3.00,cents/bu,X,12.17,Current
+2026-10-22,2932,MO,River Southeast Missouri,Soybeans,Barge,10.0,33.0,21.5,3.0,13.0,8.0,UP 3.00-UP 13.00,cents/bu,X,12.7067,Current
+2026-10-22,2932,MO,St. Louis MS River,Soybeans,Mills & Processors,24.0,32.0,28.0,3.0,8.0,5.5,UP 3.00-UP 8.00,cents/bu,X,12.81,Current
+2026-10-22,2932,MO,St. Joseph,Soybeans,Mills & Processors,-45.0,-20.0,-32.5,-5.0,0.0,-2.5,DN 5.00-UNCH,cents/bu,X,12.205,Current
+2026-10-22,2932,MO,Kansas City,Soybeans,Mills & Processors,-35.0,5.0,-15.0,-10.0,0.0,-5.0,DN 10.00-UNCH,cents/bu,X,12.38,Current
+2026-10-22,3049,MN,South,Corn,Country Elevators,-65.0,-50.0,-57.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.0383,Current
+2026-10-22,3049,MN,South,Soybeans,Country Elevators,-70.0,-50.0,-60.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.95,Current
+2026-10-22,2886,KS,Northwest,Corn,Country Elevators,-10.0,-10.0,-10.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.505,Current
+2026-10-22,2886,KS,Southwest,Corn,Country Elevators,-5.0,30.0,12.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.7383,Current
+2026-10-22,2886,KS,South,Corn,Country Elevators,10.0,10.0,10.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.705,Current
+2026-10-22,2886,KS,West,Corn,Country Elevators,-35.0,10.0,-12.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.5675,Current
+2026-10-22,2886,KS,Central,Corn,Country Elevators,-35.0,-35.0,-35.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.255,Current
+2026-10-22,2886,KS,Northeast,Corn,Terminal Elevators,-20.0,-20.0,-20.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.405,Current
+2026-10-22,2886,KS,Southeast,Corn,Terminal Elevators,-40.0,-40.0,-40.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.205,Current
+2026-10-22,2886,KS,North,Corn,Terminal Elevators,-45.0,-45.0,-45.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.155,Current
+2026-10-22,2886,KS,South,Corn,Terminal Elevators,-53.0,-20.0,-36.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.25,Current
+2026-10-22,2886,KS,East,Corn,Terminal Elevators,-40.0,-40.0,-40.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.205,Current
+2026-10-22,2886,KS,Central,Corn,Terminal Elevators,-35.0,-35.0,-35.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.255,Current
+2026-10-22,2886,KS,Northwest,Soybeans,Country Elevators,-95.0,-95.0,-95.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.58,Current
+2026-10-22,2886,KS,Southwest,Soybeans,Country Elevators,-95.0,-90.0,-92.5,0.0,0.0,0.0,UNCH,cents/bu,X,11.605,Current
+2026-10-22,2886,KS,South,Soybeans,Country Elevators,-85.0,-85.0,-85.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.68,Current
+2026-10-22,2886,KS,West,Soybeans,Country Elevators,-110.0,-110.0,-110.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.43,Current
+2026-10-22,2886,KS,Northeast,Soybeans,Terminal Elevators,-40.0,-40.0,-40.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.13,Current
+2026-10-22,2886,KS,Southeast,Soybeans,Terminal Elevators,-55.0,-55.0,-55.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.98,Current
+2026-10-22,2886,KS,North,Soybeans,Terminal Elevators,-60.0,-60.0,-60.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.93,Current
+2026-10-22,2886,KS,South,Soybeans,Terminal Elevators,-52.0,-15.0,-33.5,3.0,5.0,4.0,UP 3.00-UP 5.00,cents/bu,X,12.14,Current
+2026-10-22,2886,KS,East,Soybeans,Terminal Elevators,-40.0,-40.0,-40.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.13,Current
+2026-10-22,2886,KS,Central,Soybeans,Terminal Elevators,-40.0,-30.0,-35.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.18,Current
+2026-10-22,2886,KS,Southeast,Soybeans,Mills & Processors,25.0,25.0,25.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.78,Current
+2026-10-22,2886,KS,South,Soybeans,Mills & Processors,35.0,35.0,35.0,25.0,25.0,25.0,UP 25.00,cents/bu,X,12.88,Current
+2026-10-22,2886,KS,East,Soybeans,Mills & Processors,10.0,10.0,10.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.63,Current
+2026-10-22,2892,KY,Purchase,Corn,Country Elevators,-10.0,-10.0,-10.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.505,Current
+2026-10-22,2892,KY,Green River,Corn,Country Elevators,-5.0,-5.0,-5.0,5.0,5.0,5.0,UP 5.00,cents/bu,Z,4.555,Current
+2026-10-22,2892,KY,Pennyrile,Corn,Country Elevators,-35.0,2.0,-16.5,0.0,5.0,2.5,UNCH-UP 5.00,cents/bu,Z,4.3667,Current
+2026-10-22,2892,KY,Louisville,Corn,Country Elevators,-75.0,-75.0,-75.0,0.0,0.0,0.0,UNCH,cents/bu,Z,3.855,Current
+2026-10-22,2892,KY,Bluegrass,Corn,Country Elevators,-50.0,-50.0,-50.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.105,Current
+2026-10-22,2892,KY,Ohio River - Upper,Corn,Barge,-25.0,-21.0,-23.0,-2.0,2.0,0.0,UP 2.00-DN 2.00,cents/bu,Z,4.375,Current
+2026-10-22,2892,KY,Ohio River - Lower,Corn,Barge,-13.0,1.0,-6.0,1.0,4.0,2.5,UP 1.00-UP 4.00,cents/bu,Z,4.5467,Current
+2026-10-22,2892,KY,Purchase,Corn,Barge,-8.0,-1.0,-4.5,0.0,4.0,2.0,UNCH-UP 4.00,cents/bu,Z,4.555,Current
+2026-10-22,2892,KY,Purchase,Soybeans,Country Elevators,-10.0,-10.0,-10.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.43,Current
+2026-10-22,2892,KY,Green River,Soybeans,Country Elevators,-65.0,-65.0,-65.0,15.0,15.0,15.0,UP 15.00,cents/bu,X,11.88,Current
+2026-10-22,2892,KY,Pennyrile,Soybeans,Country Elevators,-35.0,10.0,-12.5,5.0,5.0,5.0,UP 5.00,cents/bu,X,12.2729,Current
+2026-10-22,2892,KY,Louisville,Soybeans,Country Elevators,-96.0,-96.0,-96.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.57,Current
+2026-10-22,2892,KY,Bluegrass,Soybeans,Country Elevators,-70.0,-70.0,-70.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.83,Current
+2026-10-22,2892,KY,Ohio River - Upper,Soybeans,Barge,-17.0,-4.0,-10.5,7.0,10.0,8.5,UP 10.00-UP 7.00,cents/bu,X,12.425,Current
+2026-10-22,2892,KY,Ohio River - Lower,Soybeans,Barge,-15.0,10.0,-2.5,7.0,20.0,13.5,UP 20.00-UP 7.00,cents/bu,X,12.518,Current
+2026-10-22,2892,KY,Purchase,Soybeans,Barge,-10.0,12.0,1.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.585,Current
+2026-10-22,2960,AR,"Mississippi River Elaine, AR",Corn,Country Elevators,-50.0,-50.0,-50.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.105,Current
+2026-10-22,2960,AR,"Helena, AR",Corn,Country Elevators,-15.0,-15.0,-15.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.455,Current
+2026-10-22,2960,AR,"West Memphis, AR",Corn,Country Elevators,-15.0,-15.0,-15.0,0.0,0.0,0.0,UNCH,cents/bu,Z,0.0275,Current
+2026-10-22,2960,AR,"East Jonesboro, AR",Soybeans,Country Elevators,-40.0,-40.0,-40.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.13,Current
+2026-10-22,2960,AR,"Pendleton, AR",Soybeans,Country Elevators,-15.0,-15.0,-15.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.38,Current
+2026-10-22,2960,AR,"Wheatley, AR",Soybeans,Country Elevators,-25.0,-25.0,-25.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.28,Current
+2026-10-22,2960,AR,"Arkansas River Des Arc, AR",Soybeans,Country Elevators,-30.0,-30.0,-30.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.23,Current
+2026-10-22,2960,AR,"Mississippi River Elaine, AR",Soybeans,Country Elevators,12.0,12.0,12.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.65,Current
+2026-10-22,2960,AR,"Helena, AR",Soybeans,Country Elevators,12.0,12.0,12.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.65,Current
+2026-10-22,2960,AR,"Osceola, AR",Soybeans,Country Elevators,8.0,8.0,8.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.61,Current
+2026-10-22,2960,AR,"West Memphis, AR",Soybeans,Country Elevators,11.0,11.0,11.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.64,Current
+2026-10-22,2960,AR,"Stuttgart, AR",Soybeans,Mills & Processors,-15.0,-15.0,-15.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.38,Current
+2026-10-22,3100,OK,"Northwest Hooker, OK",Corn,Country Elevators,45.0,45.0,45.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.055,Current
+2026-10-22,3100,OK,"Keyes, OK",Corn,Country Elevators,40.0,40.0,40.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.005,Current
+2026-10-22,3100,OK,"North Central Manchester, OK",Corn,Country Elevators,-35.0,-35.0,-35.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.255,Current
+2026-10-22,3100,OK,"Medford, OK",Corn,Country Elevators,-35.0,-35.0,-35.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.255,Current
+2026-10-22,3100,OK,"Ponca City, OK",Corn,Country Elevators,-30.0,-30.0,-30.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.305,Current
+2026-10-22,3100,OK,"West Weatherford, OK",Corn,Country Elevators,20.0,20.0,20.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.805,Current
+2026-10-22,3100,OK,"Northwest Buffalo, OK",Soybeans,Country Elevators,-65.0,-65.0,-65.0,10.0,10.0,10.0,UP 10.00,cents/bu,X,11.88,Current
+2026-10-22,3100,OK,"Hooker, OK",Soybeans,Country Elevators,-100.0,-100.0,-100.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.53,Current
+2026-10-22,3100,OK,"North Central Alva, OK",Soybeans,Country Elevators,-50.0,-50.0,-50.0,10.0,10.0,10.0,UP 10.00,cents/bu,X,12.03,Current
+2026-10-22,3100,OK,"Manchester, OK",Soybeans,Country Elevators,-45.0,-45.0,-45.0,10.0,10.0,10.0,UP 10.00,cents/bu,X,12.08,Current
+2026-10-22,3100,OK,"Medford, OK",Soybeans,Country Elevators,-50.0,-50.0,-50.0,10.0,10.0,10.0,UP 10.00,cents/bu,X,12.03,Current
+2026-10-22,3100,OK,"Ponca City, OK",Soybeans,Country Elevators,-50.0,-50.0,-50.0,10.0,10.0,10.0,UP 10.00,cents/bu,X,12.03,Current
+2026-10-22,3100,OK,"West Weatherford, OK",Soybeans,Country Elevators,-75.0,-75.0,-75.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.78,Current
+2026-10-22,3100,OK,"Central Stillwater, OK",Soybeans,Country Elevators,-58.0,-58.0,-58.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.95,Current
+2026-10-22,2912,CO,North Central,Corn,Country Elevators,65.0,85.0,75.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.38,Current
+2026-10-22,2912,CO,Northeast,Corn,Country Elevators,0.0,40.0,20.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.7805,Current
+2026-10-22,2912,CO,Southeast,Corn,Country Elevators,-20.0,-20.0,-20.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.405,Current
+2026-10-22,2912,CO,East,Corn,Country Elevators,3.0,80.0,41.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.8117,Current
+2026-10-22,2912,CO,Northeast,Soybeans,Country Elevators,-85.0,-5.0,-45.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.9,Current
+2026-10-22,2912,CO,East,Soybeans,Country Elevators,-85.0,-85.0,-85.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.68,Current
+2026-10-22,3088,TN,Northwest,Corn,Country Elevators,-35.0,-20.0,-27.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.33,Current
+2026-10-22,3088,TN,North Central,Corn,Country Elevators,-40.0,-30.0,-35.0,0.0,10.0,5.0,UNCH-UP 10.00,cents/bu,Z,4.255,Current
+2026-10-22,3088,TN,South Central,Corn,Country Elevators,-25.0,-25.0,-25.0,0.0,0.0,0.0,UNCH,cents/bu,Z,0.0275,Current
+2026-10-22,3088,TN,West Central,Corn,Country Elevators,-10.0,-10.0,-10.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.505,Current
+2026-10-22,3088,TN,West,Corn,Terminal Elevators,5.0,5.0,5.0,0.0,5.0,2.5,UP 5.00-UNCH,cents/bu,Z,4.655,Current
+2026-10-22,3088,TN,Mississippi River,Corn,Barge,-1.0,0.0,-0.5,0.0,4.0,2.0,UP 4.00-UNCH,cents/bu,Z,4.6,Current
+2026-10-22,3088,TN,Northwest,Soybeans,Country Elevators,-50.0,-22.0,-36.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.15,Current
+2026-10-22,3088,TN,North Central,Soybeans,Country Elevators,-35.0,0.0,-17.5,5.0,10.0,7.5,UP 10.00-UP 5.00,cents/bu,X,12.355,Current
+2026-10-22,3088,TN,South Central,Soybeans,Country Elevators,-45.0,-45.0,-45.0,0.0,0.0,0.0,UNCH,cents/bu,X,0.0775,Current
+2026-10-22,3088,TN,West Central,Soybeans,Country Elevators,-5.0,-5.0,-5.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.48,Current
+2026-10-22,3088,TN,West,Soybeans,Terminal Elevators,20.0,26.0,23.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.76,Current
+2026-10-22,3088,TN,Mississippi River,Soybeans,Barge,10.0,33.0,21.5,0.0,20.0,10.0,UNCH-UP 20.00,cents/bu,X,12.7,Current
+2026-10-22,3156,NC,"Southeast Autryville, NC",Corn,Country Elevators,55.0,55.0,55.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.155,Current
+2026-10-22,3156,NC,"Calypso, NC",Corn,Country Elevators,45.0,45.0,45.0,0.0,0.0,0.0,UNCH,cents/bu,Z,0.0275,Current
+2026-10-22,3156,NC,"Clinton, NC",Corn,Country Elevators,45.0,45.0,45.0,0.0,0.0,0.0,UNCH,cents/bu,Z,0.0275,Current
+2026-10-22,3156,NC,"Four Oaks, NC",Corn,Country Elevators,45.0,45.0,45.0,0.0,0.0,0.0,UNCH,cents/bu,Z,0.0275,Current
+2026-10-22,3156,NC,"La Grange, NC",Corn,Country Elevators,45.0,45.0,45.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.055,Current
+2026-10-22,3156,NC,"Rose Hill, NC",Corn,Country Elevators,85.0,85.0,85.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.455,Current
+2026-10-22,3156,NC,"Walstonburg, NC",Corn,Country Elevators,45.0,45.0,45.0,0.0,0.0,0.0,UNCH,cents/bu,Z,0.0275,Current
+2026-10-22,3156,NC,"West Shelby, NC",Corn,Country Elevators,25.0,25.0,25.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.855,Current
+2026-10-22,3156,NC,"Coastal Elizabeth City, NC",Corn,Country Elevators,10.0,10.0,10.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.705,Current
+2026-10-22,3156,NC,"Hobbsville, NC",Corn,Country Elevators,-20.0,-20.0,-20.0,0.0,0.0,0.0,UNCH,cents/bu,Z,0.0275,Current
+2026-10-22,3156,NC,"Warsaw, NC",Corn,Country Elevators,85.0,85.0,85.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.455,Current
+2026-10-22,3156,NC,"Northeast Cofield, NC",Corn,Mills & Processors,25.0,25.0,25.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.855,Current
+2026-10-22,3156,NC,"Nashville, NC",Corn,Mills & Processors,75.0,75.0,75.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.355,Current
+2026-10-22,3156,NC,"Southeast Bladenboro, NC",Corn,Mills & Processors,1.0,1.0,1.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.615,Current
+2026-10-22,3156,NC,"Laurinburg, NC",Corn,Mills & Processors,1.05,1.05,1.05,0.0,0.0,0.0,UNCH,cents/bu,Z,4.6155,Current
+2026-10-22,3156,NC,"Pantego, NC",Corn,Mills & Processors,40.0,40.0,40.0,0.0,0.0,0.0,UNCH,cents/bu,Z,0.0275,Current
+2026-10-22,3156,NC,"Warsaw, NC",Corn,Mills & Processors,85.0,85.0,85.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.455,Current
+2026-10-22,3156,NC,"Southeast Autryville, NC",Soybeans,Country Elevators,-55.0,-55.0,-55.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.98,Current
+2026-10-22,3156,NC,"Bladenboro, NC",Soybeans,Country Elevators,20.0,20.0,20.0,0.0,0.0,0.0,UNCH,cents/bu,X,0.0775,Current
+2026-10-22,3156,NC,"Calypso, NC",Soybeans,Country Elevators,-25.0,-25.0,-25.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.28,Current
+2026-10-22,3156,NC,"Chadbourn, NC",Soybeans,Country Elevators,5.0,5.0,5.0,0.0,0.0,0.0,UNCH,cents/bu,X,0.0775,Current
+2026-10-22,3156,NC,"Clinton, NC",Soybeans,Country Elevators,-25.0,-25.0,-25.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.28,Current
+2026-10-22,3156,NC,"La Grange, NC",Soybeans,Country Elevators,-35.0,-35.0,-35.0,0.0,0.0,0.0,UNCH,cents/bu,X,0.0775,Current
+2026-10-22,3156,NC,"Red Springs, NC",Soybeans,Country Elevators,20.0,20.0,20.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.73,Current
+2026-10-22,3156,NC,"Walstonburg, NC",Soybeans,Country Elevators,-35.0,-35.0,-35.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.18,Current
+2026-10-22,3156,NC,"Whiteville, NC",Soybeans,Country Elevators,20.0,20.0,20.0,0.0,0.0,0.0,UNCH,cents/bu,X,0.0775,Current
+2026-10-22,3156,NC,"West Shelby, NC",Soybeans,Country Elevators,-55.0,-55.0,-55.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.98,Current
+2026-10-22,3156,NC,"Coastal Elizabeth City, NC",Soybeans,Country Elevators,-20.0,-20.0,-20.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.33,Current
+2026-10-22,3156,NC,"Hobbsville, NC",Soybeans,Country Elevators,0.0,0.0,0.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.53,Current
+2026-10-22,3156,NC,"Warsaw, NC",Soybeans,Country Elevators,-40.0,-40.0,-40.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.13,Current
+2026-10-22,3156,NC,"Northeast Cofield, NC",Soybeans,Mills & Processors,-5.0,-5.0,-5.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.48,Current
+2026-10-22,3156,NC,"Southeast Fayetteville, NC",Soybeans,Mills & Processors,40.0,40.0,40.0,-5.0,-5.0,-5.0,DN 5.00,cents/bu,X,12.93,Current
+2026-10-22,3167,VA,Norfolk Producer,Corn,Country Elevators,20.0,20.0,20.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.805,Current
+2026-10-22,3167,VA,Area Petersburg Area,Corn,Country Elevators,-15.0,-15.0,-15.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.455,Current
+2026-10-22,3167,VA,Middle Peninsula,Corn,Country Elevators,-25.0,-25.0,-25.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.355,Current
+2026-10-22,3167,VA,Area Harrisonburg Area,Corn,Country Elevators,80.0,80.0,80.0,0.0,0.0,0.0,UNCH,cents/bu,Z,5.405,Current
+2026-10-22,3167,VA,Wakefield Area,Corn,Country Elevators,-20.0,15.0,-2.5,0.0,0.0,0.0,UNCH,cents/bu,Z,4.58,Current
+2026-10-22,3167,VA,Eastern Shore,Corn,Country Elevators,20.0,20.0,20.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.805,Current
+2026-10-22,3167,VA,Norfolk Terminal,Corn,Terminal Elevators,35.0,35.0,35.0,0.0,0.0,0.0,UNCH,cents/bu,Z,4.955,Current
+2026-10-22,3167,VA,Norfolk Producer,Soybeans,Country Elevators,0.0,0.0,0.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.53,Current
+2026-10-22,3167,VA,Area Petersburg Area,Soybeans,Country Elevators,-10.0,-10.0,-10.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.43,Current
+2026-10-22,3167,VA,Middle Peninsula,Soybeans,Country Elevators,-30.0,-30.0,-30.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.23,Current
+2026-10-22,3167,VA,Area Harrisonburg Area,Soybeans,Country Elevators,-75.0,-75.0,-75.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.78,Current
+2026-10-22,3167,VA,Wakefield Area,Soybeans,Country Elevators,-10.0,15.0,2.5,0.0,0.0,0.0,UNCH,cents/bu,X,12.555,Current
+2026-10-22,3167,VA,Eastern Shore,Soybeans,Country Elevators,-80.0,-70.0,-75.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.78,Current
+2026-10-22,3167,VA,Norfolk Terminal,Soybeans,Terminal Elevators,40.0,40.0,40.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.93,Current
+2026-10-22,3167,VA,Area Richmond Area,Soybeans,Terminal Elevators,0.0,0.0,0.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.53,Current
+2026-10-22,3186,SD,North Central,Corn,Country Elevators,-90.0,-80.0,-85.0,0.0,0.0,0.0,UNCH,cents/bu,Z,3.7579,Current
+2026-10-22,3186,SD,Northeast,Corn,Country Elevators,-94.0,-65.0,-79.5,-2.0,0.0,-1.0,DN 2.00-UNCH,cents/bu,Z,3.7839,Current
+2026-10-22,3186,SD,Southeast,Corn,Country Elevators,-60.0,-41.0,-50.5,0.0,5.0,2.5,UP 5.00-UNCH,cents/bu,Z,4.1127,Current
+2026-10-22,3186,SD,Central,Corn,Country Elevators,-90.0,-80.0,-85.0,0.0,0.0,0.0,UNCH,cents/bu,Z,3.7717,Current
+2026-10-22,3186,SD,East Central,Corn,Country Elevators,-90.0,-50.0,-70.0,0.0,0.0,0.0,UNCH,cents/bu,Z,3.9183,Current
+2026-10-22,3186,SD,North Central,Soybeans,Country Elevators,-80.0,-55.0,-67.5,0.0,0.0,0.0,UNCH,cents/bu,X,0.0775,Current
+2026-10-22,3186,SD,Northeast,Soybeans,Country Elevators,-92.0,-70.0,-81.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.75,Current
+2026-10-22,3186,SD,Southeast,Soybeans,Country Elevators,-65.0,-35.0,-50.0,0.0,0.0,0.0,UNCH,cents/bu,X,12.0046,Current
+2026-10-22,3186,SD,Central,Soybeans,Country Elevators,-80.0,-70.0,-75.0,0.0,0.0,0.0,UNCH,cents/bu,X,0.0775,Current
+2026-10-22,3186,SD,East Central,Soybeans,Country Elevators,-80.0,-35.0,-57.5,0.0,0.0,0.0,UNCH,cents/bu,X,11.9014,Current
+2026-10-22,3239,WY,Southeast,Corn,Country Elevators,15.0,40.0,27.5,0.0,5.0,2.5,UNCH-UP 5.00,cents/bu,Z,4.8717,Current
+2026-10-22,3878,ND,Northwest,Corn,Country Elevators,-90.0,-90.0,-90.0,0.0,0.0,0.0,UNCH,cents/bu,Z,3.705,Current
+2026-10-22,3878,ND,North Central,Corn,Country Elevators,-100.0,-65.0,-82.5,0.0,0.0,0.0,UNCH,cents/bu,Z,3.755,Current
+2026-10-22,3878,ND,Northeast,Corn,Country Elevators,-110.0,-90.0,-100.0,0.0,0.0,0.0,UNCH,cents/bu,Z,3.6175,Current
+2026-10-22,3878,ND,Central,Corn,Country Elevators,-90.0,-80.0,-85.0,0.0,0.0,0.0,UNCH,cents/bu,Z,3.755,Current
+2026-10-22,3878,ND,East Central,Corn,Country Elevators,-80.0,-70.0,-75.0,0.0,0.0,0.0,UNCH,cents/bu,Z,3.855,Current
+2026-10-22,3878,ND,Northwest,Soybeans,Country Elevators,-90.0,-90.0,-90.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.63,Current
+2026-10-22,3878,ND,North Central,Soybeans,Country Elevators,-90.0,-85.0,-87.5,0.0,0.0,0.0,UNCH,cents/bu,X,11.6467,Current
+2026-10-22,3878,ND,Northeast,Soybeans,Country Elevators,-105.0,-85.0,-95.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.5925,Current
+2026-10-22,3878,ND,Central,Soybeans,Country Elevators,-85.0,-75.0,-80.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.7133,Current
+2026-10-22,3878,ND,East Central,Soybeans,Country Elevators,-80.0,-70.0,-75.0,-5.0,0.0,-2.5,DN 5.00-UNCH,cents/bu,X,11.78,Current
+2026-10-22,3046,MN,Minneapolis,Corn,Terminal Elevators,-65.0,-65.0,-65.0,0.0,0.0,0.0,UNCH,cents/bu,Z,3.955,Current
+2026-10-22,3046,MN,Minneapolis,Soybeans,Terminal Elevators,-62.0,-60.0,-61.0,0.0,0.0,0.0,UNCH,cents/bu,X,11.9167,Current
