@@ -1,0 +1,473 @@
+soy_dir=/workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差
+corn_dir=/workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差
+csv_rows_current=428
+append: Arkansas Basis.xlsx :: CountryElevators_DesArc <- 2026-10-27 mid=-30.0 change=0.0
+append: Arkansas Basis.xlsx :: CountryElevators_Elaine <- 2026-10-27 mid=12.0 change=0.0
+append: Arkansas Basis.xlsx :: CountryElevators_Helena <- 2026-10-27 mid=12.0 change=0.0
+append: Arkansas Basis.xlsx :: CountryElevators_Jonesboro <- 2026-10-27 mid=-40.0 change=0.0
+append: Arkansas Basis.xlsx :: CountryElevators_Osceola <- 2026-10-27 mid=8.0 change=0.0
+append: Arkansas Basis.xlsx :: CountryElevators_Pendleton <- 2026-10-27 mid=-15.0 change=0.0
+append: Arkansas Basis.xlsx :: CountryElevators_WestMemphis <- 2026-10-27 mid=11.0 change=0.0
+append: Arkansas Basis.xlsx :: CountryElevators_Wheatley <- 2026-10-27 mid=-25.0 change=0.0
+append: Arkansas Basis.xlsx :: MillsandProcessors_Stuttgart <- 2026-10-27 mid=-15.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Arkansas Basis.xlsx
+append: Illinois Basis.xlsx :: BargeLoadingElevators_Mississip <- 2026-10-27 mid=34.0 change=0.0
+append: Illinois Basis.xlsx :: BargeLoadingElevators_Mississip <- 2026-10-28 mid=36.0 change=2.0
+append: Illinois Basis.xlsx :: BargeLoadingElevators_NorthIlli <- 2026-10-27 mid=-15.5 change=0.0
+append: Illinois Basis.xlsx :: BargeLoadingElevators_NorthIlli <- 2026-10-28 mid=-15.5 change=0.0
+append: Illinois Basis.xlsx :: BargeLoadingElevators_SouthIlli <- 2026-10-27 mid=-11.5 change=2.5
+append: Illinois Basis.xlsx :: BargeLoadingElevators_SouthIlli <- 2026-10-28 mid=-11.5 change=0.0
+append: Illinois Basis.xlsx :: CountryElevators_LittleEgypt <- 2026-10-27 mid=-11.0 change=0.0
+append: Illinois Basis.xlsx :: CountryElevators_LittleEgypt <- 2026-10-28 mid=-11.0 change=0.0
+append: Illinois Basis.xlsx :: CountryElevators_North <- 2026-10-27 mid=-47.5 change=2.5
+append: Illinois Basis.xlsx :: CountryElevators_North <- 2026-10-28 mid=-47.5 change=0.0
+append: Illinois Basis.xlsx :: CountryElevators_NorthCentral <- 2026-10-27 mid=-27.5 change=0.0
+append: Illinois Basis.xlsx :: CountryElevators_NorthCentral <- 2026-10-28 mid=-27.5 change=0.0
+append: Illinois Basis.xlsx :: CountryElevators_SouthCentral <- 2026-10-27 mid=-32.0 change=1.0
+append: Illinois Basis.xlsx :: CountryElevators_SouthCentral <- 2026-10-28 mid=-32.0 change=0.0
+append: Illinois Basis.xlsx :: CountryElevators_Southwest <- 2026-10-27 mid=-15.5 change=3.0
+append: Illinois Basis.xlsx :: CountryElevators_Southwest <- 2026-10-28 mid=-15.0 change=0.5
+append: Illinois Basis.xlsx :: CountryElevators_Wabash <- 2026-10-27 mid=-34.0 change=0.0
+append: Illinois Basis.xlsx :: CountryElevators_Wabash <- 2026-10-28 mid=-34.0 change=0.0
+append: Illinois Basis.xlsx :: CountryElevators_West <- 2026-10-27 mid=-46.5 change=1.0
+append: Illinois Basis.xlsx :: CountryElevators_West <- 2026-10-28 mid=-46.5 change=0.0
+append: Illinois Basis.xlsx :: MillsandProcessors_Central <- 2026-10-27 mid=-3.5 change=-2.5
+append: Illinois Basis.xlsx :: MillsandProcessors_Central <- 2026-10-28 mid=-1.5 change=2.0
+append: Illinois Basis.xlsx :: TerminalElevators_Chicago <- 2026-10-27 mid=2.5 change=0.0
+append: Illinois Basis.xlsx :: TerminalElevators_Chicago <- 2026-10-28 mid=2.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Illinois Basis.xlsx
+append: Indiana Basis.xlsx :: BargeLoadingElevators_OhioRiver <- 2026-10-28 mid=-21.5 change=-3.0
+append: Indiana Basis.xlsx :: CountryElevators_Central <- 2026-10-28 mid=-52.5 change=0.0
+append: Indiana Basis.xlsx :: CountryElevators_East <- 2026-10-28 mid=-47.5 change=2.0
+append: Indiana Basis.xlsx :: CountryElevators_North <- 2026-10-28 mid=-40.0 change=0.0
+append: Indiana Basis.xlsx :: CountryElevators_Northeast <- 2026-10-28 mid=-33.0 change=-5.0
+append: Indiana Basis.xlsx :: CountryElevators_Northwest <- 2026-10-28 mid=-65.0 change=0.0
+append: Indiana Basis.xlsx :: CountryElevators_Southwest <- 2026-10-28 mid=-15.0 change=0.0
+append: Indiana Basis.xlsx :: CountryElevators_West <- 2026-10-28 mid=-43.5 change=0.0
+append: Indiana Basis.xlsx :: MillsandProcessors_ <- 2026-10-28 mid=-7.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Indiana Basis.xlsx
+append: Iowa Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=-72.0 change=0.0
+append: Iowa Basis.xlsx :: Country_Northeast <- 2026-10-28 mid=-75.5 change=0.0
+append: Iowa Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-57.5 change=0.0
+append: Iowa Basis.xlsx :: Country_SouthCentral <- 2026-10-28 mid=-86.0 change=-3.5
+append: Iowa Basis.xlsx :: Country_Southeast <- 2026-10-28 mid=-71.5 change=0.0
+append: Iowa Basis.xlsx :: Country_Southwest <- 2026-10-28 mid=-82.5 change=2.5
+append: Iowa Basis.xlsx :: MillsProc <- 2026-10-28 mid=-32.5 change=7.5
+append: Iowa Basis.xlsx :: Terminals_Southwest <- 2026-10-28 mid=-90.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Iowa Basis.xlsx
+append: Kansas Basis.xlsx :: Country_Northwest <- 2026-10-27 mid=-95.0 change=0.0
+append: Kansas Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-95.0 change=0.0
+append: Kansas Basis.xlsx :: Country_South <- 2026-10-27 mid=-85.0 change=0.0
+append: Kansas Basis.xlsx :: Country_South <- 2026-10-28 mid=-80.0 change=5.0
+append: Kansas Basis.xlsx :: Country_Southwest <- 2026-10-27 mid=-92.5 change=0.0
+append: Kansas Basis.xlsx :: Country_Southwest <- 2026-10-28 mid=-92.5 change=0.0
+append: Kansas Basis.xlsx :: Country_West <- 2026-10-27 mid=-110.0 change=0.0
+append: Kansas Basis.xlsx :: Country_West <- 2026-10-28 mid=-110.0 change=0.0
+append: Kansas Basis.xlsx :: MillsProc_East <- 2026-10-27 mid=10.0 change=0.0
+append: Kansas Basis.xlsx :: MillsProc_East <- 2026-10-28 mid=10.0 change=0.0
+append: Kansas Basis.xlsx :: MillsProc_South <- 2026-10-27 mid=35.0 change=0.0
+append: Kansas Basis.xlsx :: MillsProc_South <- 2026-10-28 mid=35.0 change=0.0
+append: Kansas Basis.xlsx :: MillsProc_Southeast <- 2026-10-27 mid=35.0 change=15.0
+append: Kansas Basis.xlsx :: MillsProc_Southeast <- 2026-10-28 mid=20.0 change=-15.0
+append: Kansas Basis.xlsx :: Terminals_Central <- 2026-10-27 mid=-35.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_Central <- 2026-10-28 mid=-35.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_East <- 2026-10-27 mid=-40.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_East <- 2026-10-28 mid=-40.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_North <- 2026-10-27 mid=-60.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_North <- 2026-10-28 mid=-60.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_Northeast <- 2026-10-27 mid=-40.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_Northeast <- 2026-10-28 mid=-40.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_South <- 2026-10-27 mid=-31.0 change=2.5
+append: Kansas Basis.xlsx :: Terminals_South <- 2026-10-28 mid=-31.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_Southeast <- 2026-10-27 mid=-55.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_Southeast <- 2026-10-28 mid=-55.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Kansas Basis.xlsx
+append: Kentucky Basis.xlsx :: Barge_OhioRiverLower <- 2026-10-27 mid=4.0 change=1.5
+append: Kentucky Basis.xlsx :: Barge_OhioRiverLower <- 2026-10-28 mid=3.0 change=-1.0
+append: Kentucky Basis.xlsx :: Barge_OhioRiverUpper <- 2026-10-27 mid=-17.0 change=-4.5
+append: Kentucky Basis.xlsx :: Barge_OhioRiverUpper <- 2026-10-28 mid=-25.5 change=-8.5
+append: Kentucky Basis.xlsx :: Barge_Purchase <- 2026-10-27 mid=17.0 change=-1.0
+append: Kentucky Basis.xlsx :: Barge_Purchase <- 2026-10-28 mid=19.0 change=2.0
+append: Kentucky Basis.xlsx :: Country_Bluegrass <- 2026-10-27 mid=-70.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_Bluegrass <- 2026-10-28 mid=-70.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_GreenRiver <- 2026-10-27 mid=-65.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_GreenRiver <- 2026-10-28 mid=-65.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_Louisville <- 2026-10-27 mid=-96.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_Louisville <- 2026-10-28 mid=-96.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_Pennyrile <- 2026-10-27 mid=-12.0 change=-0.5
+append: Kentucky Basis.xlsx :: Country_Pennyrile <- 2026-10-28 mid=-14.5 change=-2.5
+append: Kentucky Basis.xlsx :: Country_Purchase <- 2026-10-27 mid=10.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_Purchase <- 2026-10-28 mid=10.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Kentucky Basis.xlsx
+append: Louisiana Basis.xlsx :: Soybeans_GulfCoastPortsLA <- 2026-10-27 mid=102.5 change=6.5
+append: Louisiana Basis.xlsx :: Soybeans_GulfCoastPortsLA <- 2026-10-28 mid=102.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Louisiana Basis.xlsx
+append: Minnesota Basis.xlsx :: Barge_NorthIowaMSRiver <- 2026-10-27 mid=-37.0 change=3.0
+append: Minnesota Basis.xlsx :: Barge_NorthIowaMSRiver <- 2026-10-28 mid=-42.0 change=None
+append: Minnesota Basis.xlsx :: Barge_SouthIowaMSRiver <- 2026-10-27 mid=-37.5 change=2.5
+append: Minnesota Basis.xlsx :: Barge_SouthIowaMSRiver <- 2026-10-28 mid=-35.0 change=2.5
+append: Minnesota Basis.xlsx :: Barge_SouthMinnesotaMSRiver <- 2026-10-27 mid=-57.5 change=2.5
+append: Minnesota Basis.xlsx :: Barge_SouthMinnesotaMSRiver <- 2026-10-28 mid=-52.5 change=5.0
+append: Minnesota Basis.xlsx :: Country_South <- 2026-10-27 mid=-60.0 change=0.0
+append: Minnesota Basis.xlsx :: Country_South <- 2026-10-28 mid=-65.0 change=None
+append: Minnesota Basis.xlsx :: Terminals <- 2026-10-28 mid=-61.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Minnesota Basis.xlsx
+append: Missouri Basis.xlsx :: Barge_NortheastMissouriMSRiver <- 2026-10-27 mid=-34.0 change=0.0
+append: Missouri Basis.xlsx :: Barge_NortheastMissouriMSRiver <- 2026-10-28 mid=-32.5 change=1.5
+append: Missouri Basis.xlsx :: Barge_SoutheastMissouriMSRiver <- 2026-10-27 mid=29.5 change=5.0
+append: Missouri Basis.xlsx :: Barge_SoutheastMissouriMSRiver <- 2026-10-28 mid=30.5 change=1.0
+append: Missouri Basis.xlsx :: Country_Central <- 2026-10-27 mid=-47.5 change=0.0
+append: Missouri Basis.xlsx :: Country_Central <- 2026-10-28 mid=-54.0 change=None
+append: Missouri Basis.xlsx :: Country_NorthCentral <- 2026-10-27 mid=-66.0 change=-6.0
+append: Missouri Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=-66.0 change=0.0
+append: Missouri Basis.xlsx :: Country_Northeast <- 2026-10-27 mid=-72.0 change=0.0
+append: Missouri Basis.xlsx :: Country_Northeast <- 2026-10-28 mid=-72.0 change=0.0
+append: Missouri Basis.xlsx :: Country_Northwest <- 2026-10-27 mid=-55.0 change=0.0
+append: Missouri Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-55.0 change=0.0
+append: Missouri Basis.xlsx :: Country_Southwest <- 2026-10-27 mid=-45.0 change=0.0
+append: Missouri Basis.xlsx :: Country_Southwest <- 2026-10-28 mid=-50.0 change=None
+append: Missouri Basis.xlsx :: Country_WestCentral <- 2026-10-27 mid=-50.0 change=0.0
+append: Missouri Basis.xlsx :: Country_WestCentral <- 2026-10-28 mid=-50.0 change=0.0
+append: Missouri Basis.xlsx :: Terminals_KansasCity <- 2026-10-27 mid=-15.0 change=0.0
+append: Missouri Basis.xlsx :: Terminals_KansasCity <- 2026-10-28 mid=-27.5 change=-12.5
+append: Missouri Basis.xlsx :: Terminals_StJoseph <- 2026-10-27 mid=-35.0 change=0.0
+append: Missouri Basis.xlsx :: Terminals_StJoseph <- 2026-10-28 mid=-35.0 change=0.0
+append: Missouri Basis.xlsx :: Terminals_StLouisMSRiver <- 2026-10-27 mid=35.0 change=1.5
+append: Missouri Basis.xlsx :: Terminals_StLouisMSRiver <- 2026-10-28 mid=36.0 change=1.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Missouri Basis.xlsx
+append: Nebraska Basis.xlsx :: Country_Central <- 2026-10-27 mid=-77.5 change=0.0
+append: Nebraska Basis.xlsx :: Country_Central <- 2026-10-28 mid=-80.0 change=-2.5
+append: Nebraska Basis.xlsx :: Country_East <- 2026-10-27 mid=-77.5 change=0.0
+append: Nebraska Basis.xlsx :: Country_East <- 2026-10-28 mid=-77.5 change=0.0
+append: Nebraska Basis.xlsx :: Country_Northwest <- 2026-10-27 mid=-112.5 change=0.0
+append: Nebraska Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-110.0 change=2.5
+append: Nebraska Basis.xlsx :: Country_South <- 2026-10-27 mid=-70.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_South <- 2026-10-28 mid=-70.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_Southeast <- 2026-10-27 mid=-75.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_Southeast <- 2026-10-28 mid=-75.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_Southwest <- 2026-10-27 mid=-80.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_Southwest <- 2026-10-28 mid=-80.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Nebraska Basis.xlsx
+append: North Carolina Basis.xlsx :: Country_Bladenboro <- 2026-10-28 mid=20.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Calypso <- 2026-10-28 mid=-30.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Chadbourn <- 2026-10-28 mid=5.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Clinton <- 2026-10-28 mid=-30.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_ElizabethCity <- 2026-10-28 mid=-20.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Hobbsville <- 2026-10-28 mid=0.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_LaGrange <- 2026-10-28 mid=-40.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_RedSprings <- 2026-10-28 mid=20.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Southeast <- 2026-10-28 mid=-55.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Walstonburg <- 2026-10-28 mid=-40.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Warsaw <- 2026-10-28 mid=-40.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_West <- 2026-10-28 mid=-55.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Whiteville <- 2026-10-28 mid=20.0 change=0.0
+append: North Carolina Basis.xlsx :: MillsProc_Northeast <- 2026-10-28 mid=-5.0 change=0.0
+append: North Carolina Basis.xlsx :: MillsProc_Southeast <- 2026-10-28 mid=40.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/North Carolina Basis.xlsx
+append: North Dakota Basis.xlsx :: CountryElevators_Central <- 2026-10-27 mid=-90.0 change=-10.0
+append: North Dakota Basis.xlsx :: CountryElevators_Central <- 2026-10-28 mid=-90.0 change=None
+append: North Dakota Basis.xlsx :: CountryElevators_EastCentral <- 2026-10-27 mid=-82.5 change=-2.5
+append: North Dakota Basis.xlsx :: CountryElevators_EastCentral <- 2026-10-28 mid=-85.0 change=None
+append: North Dakota Basis.xlsx :: CountryElevators_NorthCentral <- 2026-10-27 mid=-97.5 change=-10.0
+append: North Dakota Basis.xlsx :: CountryElevators_NorthCentral <- 2026-10-28 mid=-97.5 change=None
+append: North Dakota Basis.xlsx :: CountryElevators_Northeast <- 2026-10-27 mid=-105.0 change=-10.0
+append: North Dakota Basis.xlsx :: CountryElevators_Northeast <- 2026-10-28 mid=-105.0 change=None
+append: North Dakota Basis.xlsx :: CountryElevators_Northwest <- 2026-10-27 mid=-100.0 change=-10.0
+append: North Dakota Basis.xlsx :: CountryElevators_Northwest <- 2026-10-28 mid=-100.0 change=None
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/North Dakota Basis.xlsx
+append: Ohio Basis.xlsx :: Barge_OhioRiver <- 2026-10-28 mid=-25.5 change=-1.5
+append: Ohio Basis.xlsx :: Country_Central <- 2026-10-28 mid=-25.0 change=-5.0
+append: Ohio Basis.xlsx :: Country_East <- 2026-10-28 mid=-72.5 change=0.0
+append: Ohio Basis.xlsx :: Mills and Processors <- 2026-10-28 mid=-20.0 change=0.0
+append: Ohio Basis.xlsx :: Terminals_ToledoOffRiver <- 2026-10-28 mid=-42.5 change=0.0
+append: Ohio Basis.xlsx :: Terminals_ToledoOnRiver <- 2026-10-28 mid=-37.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Ohio Basis.xlsx
+append: Oklahoma Basis.xlsx :: Country_Central <- 2026-10-27 mid=-58.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Central <- 2026-10-28 mid=-58.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Hooker <- 2026-10-27 mid=-100.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Hooker <- 2026-10-28 mid=-100.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Manchester <- 2026-10-27 mid=-45.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Manchester <- 2026-10-28 mid=-45.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Medford <- 2026-10-27 mid=-50.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Medford <- 2026-10-28 mid=-45.0 change=5.0
+append: Oklahoma Basis.xlsx :: Country_NorthCentral <- 2026-10-27 mid=-50.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=-45.0 change=5.0
+append: Oklahoma Basis.xlsx :: Country_Northwest <- 2026-10-27 mid=-65.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-60.0 change=5.0
+append: Oklahoma Basis.xlsx :: Country_PoncaCity <- 2026-10-27 mid=-50.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_PoncaCity <- 2026-10-28 mid=-45.0 change=5.0
+append: Oklahoma Basis.xlsx :: Country_West <- 2026-10-27 mid=-75.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_West <- 2026-10-28 mid=-75.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Oklahoma Basis.xlsx
+append: South Dakota Basis.xlsx :: CountryElevators_Central <- 2026-10-27 mid=-75.0 change=0.0
+append: South Dakota Basis.xlsx :: CountryElevators_Central <- 2026-10-28 mid=-75.0 change=0.0
+append: South Dakota Basis.xlsx :: CountryElevators_EastCentral <- 2026-10-27 mid=-59.0 change=0.0
+append: South Dakota Basis.xlsx :: CountryElevators_EastCentral <- 2026-10-28 mid=-59.0 change=0.0
+append: South Dakota Basis.xlsx :: CountryElevators_NorthCentral <- 2026-10-27 mid=-67.5 change=0.0
+append: South Dakota Basis.xlsx :: CountryElevators_NorthCentral <- 2026-10-28 mid=-67.5 change=0.0
+append: South Dakota Basis.xlsx :: CountryElevators_Northeast <- 2026-10-27 mid=-81.0 change=0.0
+append: South Dakota Basis.xlsx :: CountryElevators_Northeast <- 2026-10-28 mid=-88.0 change=None
+append: South Dakota Basis.xlsx :: CountryElevators_Southeast <- 2026-10-27 mid=-52.0 change=-2.0
+append: South Dakota Basis.xlsx :: CountryElevators_Southeast <- 2026-10-28 mid=-50.0 change=2.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/South Dakota Basis.xlsx
+append: Tennessee Basis.xlsx :: Barge_MississippiRiver <- 2026-10-28 mid=32.5 change=3.5
+append: Tennessee Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=-15.0 change=0.0
+append: Tennessee Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-36.0 change=0.0
+append: Tennessee Basis.xlsx :: Country_SouthCentral <- 2026-10-28 mid=-45.0 change=0.0
+append: Tennessee Basis.xlsx :: Country_WestCentral <- 2026-10-28 mid=5.0 change=0.0
+append: Tennessee Basis.xlsx :: Terminals_West <- 2026-10-28 mid=38.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Tennessee Basis.xlsx
+append: Virginia Basis.xlsx :: Country_HarrisonburgArea <- 2026-10-27 mid=-75.0 change=0.0
+append: Virginia Basis.xlsx :: Country_HarrisonburgArea <- 2026-10-28 mid=-75.0 change=0.0
+append: Virginia Basis.xlsx :: Country_MiddlePeninsulaArea <- 2026-10-27 mid=-35.0 change=0.0
+append: Virginia Basis.xlsx :: Country_MiddlePeninsulaArea <- 2026-10-28 mid=-35.0 change=0.0
+append: Virginia Basis.xlsx :: Country_NorfolkProducerArea <- 2026-10-27 mid=0.0 change=0.0
+append: Virginia Basis.xlsx :: Country_NorfolkProducerArea <- 2026-10-28 mid=0.0 change=0.0
+append: Virginia Basis.xlsx :: Country_PetersburgArea <- 2026-10-27 mid=-10.0 change=0.0
+append: Virginia Basis.xlsx :: Country_PetersburgArea <- 2026-10-28 mid=-10.0 change=0.0
+append: Virginia Basis.xlsx :: Country_VAEasternShoreArea <- 2026-10-27 mid=-75.0 change=0.0
+append: Virginia Basis.xlsx :: Country_VAEasternShoreArea <- 2026-10-28 mid=-85.0 change=-10.0
+append: Virginia Basis.xlsx :: Country_WakefieldArea <- 2026-10-27 mid=2.5 change=0.0
+append: Virginia Basis.xlsx :: Country_WakefieldArea <- 2026-10-28 mid=2.5 change=0.0
+append: Virginia Basis.xlsx :: Terminals_NorfolkTerminalArea <- 2026-10-27 mid=40.0 change=0.0
+append: Virginia Basis.xlsx :: Terminals_NorfolkTerminalArea <- 2026-10-28 mid=40.0 change=0.0
+append: Virginia Basis.xlsx :: Terminals_RichmondArea <- 2026-10-27 mid=0.0 change=0.0
+append: Virginia Basis.xlsx :: Terminals_RichmondArea <- 2026-10-28 mid=0.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/大豆基差/Virginia Basis.xlsx
+append: Arkansas Basis.xlsx :: Country_Elaine <- 2026-10-27 mid=-50.0 change=0.0
+append: Arkansas Basis.xlsx :: Country_Helena <- 2026-10-27 mid=-15.0 change=0.0
+append: Arkansas Basis.xlsx :: Country_WestMemphis <- 2026-10-27 mid=-15.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Arkansas Basis.xlsx
+append: Colorado Basis.xlsx :: Country_East <- 2026-10-27 mid=31.5 change=0.0
+append: Colorado Basis.xlsx :: Country_East <- 2026-10-28 mid=31.5 change=0.0
+append: Colorado Basis.xlsx :: Country_NorthCentral <- 2026-10-27 mid=85.0 change=2.5
+append: Colorado Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=85.0 change=0.0
+append: Colorado Basis.xlsx :: Country_Northeast <- 2026-10-27 mid=27.5 change=0.0
+append: Colorado Basis.xlsx :: Country_Northeast <- 2026-10-28 mid=27.5 change=0.0
+append: Colorado Basis.xlsx :: Country_Southeast <- 2026-10-27 mid=-20.0 change=0.0
+append: Colorado Basis.xlsx :: Country_Southeast <- 2026-10-28 mid=-20.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Colorado Basis.xlsx
+append: Illinois Basis.xlsx :: Barge_MississippiRiver <- 2026-10-27 mid=16.0 change=0.0
+append: Illinois Basis.xlsx :: Barge_MississippiRiver <- 2026-10-28 mid=19.0 change=3.0
+append: Illinois Basis.xlsx :: Barge_NorthIllinoisRiver <- 2026-10-27 mid=-26.0 change=0.0
+append: Illinois Basis.xlsx :: Barge_NorthIllinoisRiver <- 2026-10-28 mid=-26.0 change=0.0
+append: Illinois Basis.xlsx :: Barge_SouthIllinoisRiver <- 2026-10-27 mid=-20.0 change=0.5
+append: Illinois Basis.xlsx :: Barge_SouthIllinoisRiver <- 2026-10-28 mid=-18.0 change=2.0
+append: Illinois Basis.xlsx :: Country_LittleEgypt <- 2026-10-27 mid=-12.0 change=0.0
+append: Illinois Basis.xlsx :: Country_LittleEgypt <- 2026-10-28 mid=-10.5 change=1.5
+append: Illinois Basis.xlsx :: Country_North <- 2026-10-27 mid=-29.0 change=1.0
+append: Illinois Basis.xlsx :: Country_North <- 2026-10-28 mid=-28.0 change=1.0
+append: Illinois Basis.xlsx :: Country_NorthCentral <- 2026-10-27 mid=-34.0 change=2.5
+append: Illinois Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=-34.0 change=0.0
+append: Illinois Basis.xlsx :: Country_SouthCentral <- 2026-10-27 mid=-27.0 change=0.5
+append: Illinois Basis.xlsx :: Country_SouthCentral <- 2026-10-28 mid=-27.0 change=0.0
+append: Illinois Basis.xlsx :: Country_Southwest <- 2026-10-27 mid=-32.0 change=3.0
+append: Illinois Basis.xlsx :: Country_Southwest <- 2026-10-28 mid=-30.5 change=1.5
+append: Illinois Basis.xlsx :: Country_Wabash <- 2026-10-27 mid=-23.0 change=7.0
+append: Illinois Basis.xlsx :: Country_Wabash <- 2026-10-28 mid=-23.0 change=0.0
+append: Illinois Basis.xlsx :: Country_West <- 2026-10-27 mid=-33.0 change=-0.5
+append: Illinois Basis.xlsx :: Country_West <- 2026-10-28 mid=-33.0 change=0.0
+append: Illinois Basis.xlsx :: MillsProc_Central <- 2026-10-27 mid=-9.0 change=1.0
+append: Illinois Basis.xlsx :: MillsProc_Central <- 2026-10-28 mid=-4.0 change=5.0
+append: Illinois Basis.xlsx :: MillsProc_Chicago <- 2026-10-27 mid=17.5 change=10.0
+append: Illinois Basis.xlsx :: MillsProc_Chicago <- 2026-10-28 mid=17.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Illinois Basis.xlsx
+append: Indiana Basis.xlsx :: Barge_OhioRiver <- 2026-10-28 mid=-24.5 change=-0.5
+append: Indiana Basis.xlsx :: Country_Central <- 2026-10-28 mid=-30.0 change=1.0
+append: Indiana Basis.xlsx :: Country_East <- 2026-10-28 mid=-26.0 change=2.5
+append: Indiana Basis.xlsx :: Country_North <- 2026-10-28 mid=-30.5 change=0.5
+append: Indiana Basis.xlsx :: Country_Northeast <- 2026-10-28 mid=-17.0 change=2.0
+append: Indiana Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-10.0 change=0.0
+append: Indiana Basis.xlsx :: Country_Southwest <- 2026-10-28 mid=-23.0 change=0.0
+append: Indiana Basis.xlsx :: Country_West <- 2026-10-28 mid=-22.0 change=0.0
+append: Indiana Basis.xlsx :: Terminals_North <- 2026-10-28 mid=-20.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Indiana Basis.xlsx
+append: Iowa Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=-44.0 change=0.0
+append: Iowa Basis.xlsx :: Country_Northeast <- 2026-10-28 mid=-49.0 change=0.0
+append: Iowa Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-40.0 change=0.0
+append: Iowa Basis.xlsx :: Country_SouthCentral <- 2026-10-28 mid=-39.0 change=1.5
+append: Iowa Basis.xlsx :: Country_Southeast <- 2026-10-28 mid=-43.0 change=-1.5
+append: Iowa Basis.xlsx :: Country_Southwest <- 2026-10-28 mid=-41.0 change=-1.0
+append: Iowa Basis.xlsx :: Terminals_Southwest <- 2026-10-28 mid=-25.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Iowa Basis.xlsx
+append: Kansas Basis.xlsx :: Country_Central <- 2026-10-27 mid=-35.0 change=0.0
+append: Kansas Basis.xlsx :: Country_Central <- 2026-10-28 mid=-35.0 change=0.0
+append: Kansas Basis.xlsx :: Country_Northwest <- 2026-10-27 mid=-10.0 change=0.0
+append: Kansas Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-10.0 change=0.0
+append: Kansas Basis.xlsx :: Country_South <- 2026-10-27 mid=10.0 change=0.0
+append: Kansas Basis.xlsx :: Country_South <- 2026-10-28 mid=10.0 change=0.0
+append: Kansas Basis.xlsx :: Country_Southwest <- 2026-10-27 mid=12.5 change=0.0
+append: Kansas Basis.xlsx :: Country_Southwest <- 2026-10-28 mid=12.5 change=0.0
+append: Kansas Basis.xlsx :: Country_West <- 2026-10-27 mid=-12.5 change=0.0
+append: Kansas Basis.xlsx :: Country_West <- 2026-10-28 mid=-12.5 change=0.0
+append: Kansas Basis.xlsx :: Terminals_Central <- 2026-10-27 mid=-35.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_Central <- 2026-10-28 mid=-35.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_East <- 2026-10-27 mid=-40.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_East <- 2026-10-28 mid=-40.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_North <- 2026-10-27 mid=-45.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_North <- 2026-10-28 mid=-45.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_Northeast <- 2026-10-27 mid=-20.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_Northeast <- 2026-10-28 mid=-20.0 change=0.0
+append: Kansas Basis.xlsx :: Terminals_South <- 2026-10-27 mid=-36.5 change=0.0
+append: Kansas Basis.xlsx :: Terminals_South <- 2026-10-28 mid=-36.5 change=0.0
+append: Kansas Basis.xlsx :: Terminals_Southeast <- 2026-10-27 mid=-35.0 change=5.0
+append: Kansas Basis.xlsx :: Terminals_Southeast <- 2026-10-28 mid=-35.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Kansas Basis.xlsx
+append: Kentucky Basis.xlsx :: Barge_OhioRiverLowerKY <- 2026-10-27 mid=-14.0 change=-7.0
+append: Kentucky Basis.xlsx :: Barge_OhioRiverLowerKY <- 2026-10-28 mid=-6.5 change=7.5
+append: Kentucky Basis.xlsx :: Barge_OhioRiverUpperKY <- 2026-10-27 mid=-27.0 change=-2.0
+append: Kentucky Basis.xlsx :: Barge_OhioRiverUpperKY <- 2026-10-28 mid=-26.0 change=1.0
+append: Kentucky Basis.xlsx :: Barge_Purchase <- 2026-10-27 mid=-2.0 change=-2.0
+append: Kentucky Basis.xlsx :: Barge_Purchase <- 2026-10-28 mid=-1.5 change=0.5
+append: Kentucky Basis.xlsx :: Country_Bluegrass <- 2026-10-27 mid=-50.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_Bluegrass <- 2026-10-28 mid=-50.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_GreenRiver <- 2026-10-27 mid=-5.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_GreenRiver <- 2026-10-28 mid=-5.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_Louisville <- 2026-10-27 mid=-75.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_Louisville <- 2026-10-28 mid=-75.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_Pennyrile <- 2026-10-27 mid=-15.0 change=2.5
+append: Kentucky Basis.xlsx :: Country_Pennyrile <- 2026-10-28 mid=-12.5 change=2.5
+append: Kentucky Basis.xlsx :: Country_Purchase <- 2026-10-27 mid=-5.0 change=0.0
+append: Kentucky Basis.xlsx :: Country_Purchase <- 2026-10-28 mid=-5.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Kentucky Basis.xlsx
+append: Louisiana Basis.xlsx :: Corn_GulfCoastPortsLA <- 2026-10-27 mid=84.5 change=0.5
+append: Louisiana Basis.xlsx :: Corn_GulfCoastPortsLA <- 2026-10-28 mid=84.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Louisiana Basis.xlsx
+append: Minnesota Basis.xlsx :: Barge_NorthIowaMSRiver <- 2026-10-27 mid=-35.0 change=0.0
+append: Minnesota Basis.xlsx :: Barge_NorthIowaMSRiver <- 2026-10-28 mid=-32.5 change=2.5
+append: Minnesota Basis.xlsx :: Barge_SouthIowaMSRiver <- 2026-10-27 mid=-40.0 change=0.0
+append: Minnesota Basis.xlsx :: Barge_SouthIowaMSRiver <- 2026-10-28 mid=-37.5 change=2.5
+append: Minnesota Basis.xlsx :: Barge_SouthMinnesotaMSRiver <- 2026-10-27 mid=-60.0 change=2.5
+append: Minnesota Basis.xlsx :: Barge_SouthMinnesotaMSRiver <- 2026-10-28 mid=-60.0 change=0.0
+append: Minnesota Basis.xlsx :: Country_South <- 2026-10-27 mid=-55.0 change=2.5
+append: Minnesota Basis.xlsx :: Country_South <- 2026-10-28 mid=-55.0 change=0.0
+append: Minnesota Basis.xlsx :: Terminals <- 2026-10-28 mid=-65.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Minnesota Basis.xlsx
+append: Missouri Basis.xlsx :: Barge_NortheastMissouriMSRiver <- 2026-10-27 mid=-35.0 change=0.0
+append: Missouri Basis.xlsx :: Barge_NortheastMissouriMSRiver <- 2026-10-28 mid=-35.0 change=0.0
+append: Missouri Basis.xlsx :: Barge_SoutheastMissouriMSRiver <- 2026-10-27 mid=7.5 change=3.5
+append: Missouri Basis.xlsx :: Barge_SoutheastMissouriMSRiver <- 2026-10-28 mid=8.0 change=0.5
+append: Missouri Basis.xlsx :: Country_Central <- 2026-10-27 mid=-40.0 change=0.0
+append: Missouri Basis.xlsx :: Country_Central <- 2026-10-28 mid=-40.0 change=0.0
+append: Missouri Basis.xlsx :: Country_NorthCentral <- 2026-10-27 mid=-50.0 change=0.0
+append: Missouri Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=-50.0 change=0.0
+append: Missouri Basis.xlsx :: Country_Northwest <- 2026-10-27 mid=-40.0 change=0.0
+append: Missouri Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-37.5 change=2.5
+append: Missouri Basis.xlsx :: Country_Southwest <- 2026-10-27 mid=-45.0 change=0.0
+append: Missouri Basis.xlsx :: Country_Southwest <- 2026-10-28 mid=-35.0 change=10.0
+append: Missouri Basis.xlsx :: Country_WestCentral <- 2026-10-27 mid=-35.0 change=0.0
+append: Missouri Basis.xlsx :: Country_WestCentral <- 2026-10-28 mid=-35.0 change=0.0
+append: Missouri Basis.xlsx :: Terminals_KansasCity <- 2026-10-27 mid=-5.0 change=0.0
+append: Missouri Basis.xlsx :: Terminals_KansasCity <- 2026-10-28 mid=-5.0 change=0.0
+append: Missouri Basis.xlsx :: Terminals_StJoseph <- 2026-10-27 mid=-35.0 change=0.0
+append: Missouri Basis.xlsx :: Terminals_StJoseph <- 2026-10-28 mid=-30.0 change=5.0
+append: Missouri Basis.xlsx :: Terminals_StLouisMSRiver <- 2026-10-27 mid=17.5 change=1.5
+append: Missouri Basis.xlsx :: Terminals_StLouisMSRiver <- 2026-10-28 mid=18.5 change=1.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Missouri Basis.xlsx
+append: Nebraska Basis.xlsx :: Country_Central <- 2026-10-27 mid=-32.5 change=0.0
+append: Nebraska Basis.xlsx :: Country_Central <- 2026-10-28 mid=-32.5 change=0.0
+append: Nebraska Basis.xlsx :: Country_East <- 2026-10-27 mid=-47.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_East <- 2026-10-28 mid=-47.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_Northeast <- 2026-10-27 mid=-39.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_Northeast <- 2026-10-28 mid=-39.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_Northwest <- 2026-10-27 mid=19.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=20.0 change=1.0
+append: Nebraska Basis.xlsx :: Country_South <- 2026-10-27 mid=-24.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_South <- 2026-10-28 mid=-22.5 change=1.5
+append: Nebraska Basis.xlsx :: Country_Southeast <- 2026-10-27 mid=-39.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_Southeast <- 2026-10-28 mid=-39.0 change=0.0
+append: Nebraska Basis.xlsx :: Country_Southwest <- 2026-10-27 mid=-3.5 change=0.0
+append: Nebraska Basis.xlsx :: Country_Southwest <- 2026-10-28 mid=-3.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Nebraska Basis.xlsx
+append: North Carolina Basis.xlsx :: Country_Autryville <- 2026-10-28 mid=55.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Calypso <- 2026-10-28 mid=45.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Clinton <- 2026-10-28 mid=45.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_ElizabethCity <- 2026-10-28 mid=10.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_FourOaks <- 2026-10-28 mid=45.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Hobbsville <- 2026-10-28 mid=-20.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_LaGrange <- 2026-10-28 mid=45.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_RoseHill <- 2026-10-28 mid=85.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Shelby <- 2026-10-28 mid=25.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Walstonburg <- 2026-10-28 mid=45.0 change=0.0
+append: North Carolina Basis.xlsx :: Country_Warsaw <- 2026-10-28 mid=85.0 change=0.0
+append: North Carolina Basis.xlsx :: MillsProc_Bladenboro <- 2026-10-28 mid=1.0 change=0.0
+append: North Carolina Basis.xlsx :: MillsProc_Cofield <- 2026-10-28 mid=25.0 change=0.0
+append: North Carolina Basis.xlsx :: MillsProc_Laurinburg <- 2026-10-28 mid=1.05 change=0.0
+append: North Carolina Basis.xlsx :: MillsProc_Nashville <- 2026-10-28 mid=80.0 change=0.0
+append: North Carolina Basis.xlsx :: MillsProc_Pantego <- 2026-10-28 mid=40.0 change=0.0
+append: North Carolina Basis.xlsx :: MillsProc_Warsaw <- 2026-10-28 mid=85.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/North Carolina Basis.xlsx
+append: North Dakota Basis.xlsx :: Country_Central <- 2026-10-27 mid=-85.0 change=0.0
+append: North Dakota Basis.xlsx :: Country_Central <- 2026-10-28 mid=-85.0 change=0.0
+append: North Dakota Basis.xlsx :: Country_EastCentral <- 2026-10-27 mid=-82.5 change=-2.5
+append: North Dakota Basis.xlsx :: Country_EastCentral <- 2026-10-28 mid=-82.5 change=0.0
+append: North Dakota Basis.xlsx :: Country_NorthCentral <- 2026-10-27 mid=-87.5 change=0.0
+append: North Dakota Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=-87.5 change=0.0
+append: North Dakota Basis.xlsx :: Country_Northeast <- 2026-10-27 mid=-100.0 change=0.0
+append: North Dakota Basis.xlsx :: Country_Northeast <- 2026-10-28 mid=-100.0 change=0.0
+append: North Dakota Basis.xlsx :: Country_Northwest <- 2026-10-27 mid=-90.0 change=0.0
+append: North Dakota Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-90.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/North Dakota Basis.xlsx
+append: Ohio Basis.xlsx :: Barge_OhioRiver <- 2026-10-28 mid=-26.0 change=1.0
+append: Ohio Basis.xlsx :: Country_East <- 2026-10-28 mid=-60.0 change=0.0
+append: Ohio Basis.xlsx :: Terminals_ToledoOffRiver <- 2026-10-28 mid=-22.5 change=2.5
+append: Ohio Basis.xlsx :: Terminals_ToledoOnRiver <- 2026-10-28 mid=-16.5 change=1.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Ohio Basis.xlsx
+append: Oklahoma Basis.xlsx :: Country_Hooker <- 2026-10-27 mid=45.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Hooker <- 2026-10-28 mid=45.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Manchester <- 2026-10-27 mid=-35.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Manchester <- 2026-10-28 mid=-35.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Medford <- 2026-10-27 mid=-35.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Medford <- 2026-10-28 mid=-35.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_PoncaCity <- 2026-10-27 mid=-30.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_PoncaCity <- 2026-10-28 mid=-30.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Weatherford <- 2026-10-27 mid=20.0 change=0.0
+append: Oklahoma Basis.xlsx :: Country_Weatherford <- 2026-10-28 mid=20.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Oklahoma Basis.xlsx
+append: South Dakota Basis.xlsx :: Country_Central <- 2026-10-27 mid=-87.5 change=-2.5
+append: South Dakota Basis.xlsx :: Country_Central <- 2026-10-28 mid=-87.5 change=0.0
+append: South Dakota Basis.xlsx :: Country_EastCentral <- 2026-10-27 mid=-70.0 change=0.0
+append: South Dakota Basis.xlsx :: Country_EastCentral <- 2026-10-28 mid=-70.0 change=0.0
+append: South Dakota Basis.xlsx :: Country_NorthCentral <- 2026-10-27 mid=-85.0 change=0.0
+append: South Dakota Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=-85.0 change=0.0
+append: South Dakota Basis.xlsx :: Country_Northeast <- 2026-10-27 mid=-80.0 change=-0.5
+append: South Dakota Basis.xlsx :: Country_Northeast <- 2026-10-28 mid=-80.0 change=0.0
+append: South Dakota Basis.xlsx :: Country_Southeast <- 2026-10-27 mid=-50.5 change=0.0
+append: South Dakota Basis.xlsx :: Country_Southeast <- 2026-10-28 mid=-50.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/South Dakota Basis.xlsx
+append: Tennessee Basis.xlsx :: Barge_MississippiRiver <- 2026-10-28 mid=9.0 change=0.0
+append: Tennessee Basis.xlsx :: Country_NorthCentral <- 2026-10-28 mid=-32.5 change=0.0
+append: Tennessee Basis.xlsx :: Country_Northwest <- 2026-10-28 mid=-27.5 change=0.0
+append: Tennessee Basis.xlsx :: Country_SouthCentral <- 2026-10-28 mid=-25.0 change=0.0
+append: Tennessee Basis.xlsx :: Country_WestCentral <- 2026-10-28 mid=0.0 change=0.0
+append: Tennessee Basis.xlsx :: Terminals_West <- 2026-10-28 mid=10.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Tennessee Basis.xlsx
+append: Virginia Basis.xlsx :: Country_HarrisonburgArea <- 2026-10-27 mid=80.0 change=0.0
+append: Virginia Basis.xlsx :: Country_HarrisonburgArea <- 2026-10-28 mid=80.0 change=0.0
+append: Virginia Basis.xlsx :: Country_MiddlePeninsulaArea <- 2026-10-27 mid=-40.0 change=0.0
+append: Virginia Basis.xlsx :: Country_MiddlePeninsulaArea <- 2026-10-28 mid=-40.0 change=0.0
+append: Virginia Basis.xlsx :: Country_NorfolkProducerArea <- 2026-10-27 mid=20.0 change=0.0
+append: Virginia Basis.xlsx :: Country_NorfolkProducerArea <- 2026-10-28 mid=20.0 change=0.0
+append: Virginia Basis.xlsx :: Country_PetersburgArea <- 2026-10-27 mid=-10.0 change=5.0
+append: Virginia Basis.xlsx :: Country_PetersburgArea <- 2026-10-28 mid=-10.0 change=0.0
+append: Virginia Basis.xlsx :: Country_VAEasternShoreArea <- 2026-10-27 mid=20.0 change=0.0
+append: Virginia Basis.xlsx :: Country_VAEasternShoreArea <- 2026-10-28 mid=20.0 change=0.0
+append: Virginia Basis.xlsx :: Country_WakefieldArea <- 2026-10-27 mid=0.0 change=2.5
+append: Virginia Basis.xlsx :: Country_WakefieldArea <- 2026-10-28 mid=0.0 change=0.0
+append: Virginia Basis.xlsx :: Terminals_NorfolkTerminalArea <- 2026-10-27 mid=35.0 change=0.0
+append: Virginia Basis.xlsx :: Terminals_NorfolkTerminalArea <- 2026-10-28 mid=35.0 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Virginia Basis.xlsx
+append: Wyoming Basis.xlsx :: Country_Southeast <- 2026-10-28 mid=27.5 change=0.0
+saved /workspace/us-corn-soy-basis-push/玉米大豆历史数据/玉米基差/Wyoming Basis.xlsx
+--- summary ---
+  append: 422
+  sheets_touched: 422
+  unmatched: 2
+unmatched_sheet_count=2
+  unmatched: ('no_sheet score=-1.0', 'Corn', 'OK', 'Country Elevators', 'Keyes, OK', '2026-10-27')
+  unmatched: ('no_sheet score=-1.0', 'Corn', 'OK', 'Country Elevators', 'Keyes, OK', '2026-10-28')
+unmatched_state_count=4
+  no_wb: CO/Soybeans/East
+  no_wb: CO/Soybeans/Northeast
+  no_wb: CO/Soybeans/East
+  no_wb: CO/Soybeans/Northeast
