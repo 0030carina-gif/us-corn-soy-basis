@@ -403,6 +403,39 @@ function seasonSvg(series) {
     t.textContent = series.latest.v;
     svg.appendChild(t);
   }
+  const tip = document.createElement("div");
+  tip.style.cssText = "position:fixed;pointer-events:none;background:#1c2430;color:#fff;font-size:12px;padding:6px 8px;border-radius:6px;display:none;z-index:40;line-height:1.45;max-width:240px";
+  document.body.appendChild(tip);
+  const hit = el("rect", {x:L, y:T, width:W-L-R, height:H-T-B, fill:"transparent"});
+  svg.appendChild(hit);
+  const catalog = [];
+  (series.years || []).forEach(y => y.pts.forEach(p => catalog.push(p.md)));
+  (series.mean || []).forEach(p => catalog.push(p.md));
+  const uniq = Array.from(new Set(catalog)).sort((a,b) => mdNum(a)-mdNum(b));
+  hit.addEventListener("mousemove", ev => {
+    const box = svg.getBoundingClientRect();
+    const x = (ev.clientX - box.left) / box.width * W;
+    const doy = (x - L) / (W - L - R) * 365;
+    let best = uniq[0], bestD = 999;
+    uniq.forEach(md => {
+      const d = Math.abs(mdNum(md) - doy);
+      if (d < bestD) { best = md; bestD = d; }
+    });
+    if (!best) return;
+    const lines = [best];
+    (series.years || []).forEach(y => {
+      const p = y.pts.find(q => q.md === best);
+      if (p) lines.push(y.year + "  " + p.v + " ¢");
+    });
+    const m = (series.mean || []).find(q => q.md === best);
+    if (m) lines.push("近5年均值  " + m.v + " ¢");
+    tip.textContent = lines.join("\n");
+    tip.style.whiteSpace = "pre";
+    tip.style.display = "block";
+    tip.style.left = (ev.clientX + 12) + "px";
+    tip.style.top = (ev.clientY + 12) + "px";
+  });
+  hit.addEventListener("mouseleave", () => { tip.style.display = "none"; });
   return svg;
 }
 
