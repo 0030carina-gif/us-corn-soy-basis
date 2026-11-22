@@ -1,6 +1,6 @@
 {
- "this_fri": "2026-11-13",
- "last_fri": "2026-11-06",
+ "this_fri": "2026-11-20",
+ "last_fri": "2026-11-13",
  "soy": {
   "country": {
    "AR": {
@@ -10,244 +10,244 @@
      {
       "sheet": "CountryElevators_DesArc",
       "cur": -35.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -35.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_Elaine",
       "cur": 38.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 38.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_Helena",
       "cur": 38.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 38.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_Jonesboro",
       "cur": -45.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -45.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_Osceola",
       "cur": 35.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 35.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_Pendleton",
       "cur": -20.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -20.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_WestMemphis",
       "cur": 38.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 38.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_Wheatley",
       "cur": -30.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -30.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
    },
    "IL": {
-    "cur": -29.0,
-    "chg": 5.0,
+    "cur": -27.5,
+    "chg": 1.0,
     "sheets": [
      {
       "sheet": "CountryElevators_LittleEgypt",
-      "cur": 3.5,
-      "cur_d": "2026-11-13",
-      "old": -10.0,
-      "old_d": "2026-11-06",
-      "chg": 13.5
+      "cur": 6.0,
+      "cur_d": "2026-11-20",
+      "old": 3.5,
+      "old_d": "2026-11-13",
+      "chg": 2.5
      },
      {
       "sheet": "CountryElevators_North",
-      "cur": -52.5,
-      "cur_d": "2026-11-13",
-      "old": -53.5,
-      "old_d": "2026-11-06",
-      "chg": 1.0
+      "cur": -52.0,
+      "cur_d": "2026-11-20",
+      "old": -52.5,
+      "old_d": "2026-11-13",
+      "chg": 0.5
      },
      {
       "sheet": "CountryElevators_NorthCentral",
-      "cur": -29.0,
-      "cur_d": "2026-11-13",
-      "old": -33.0,
-      "old_d": "2026-11-06",
-      "chg": 4.0
+      "cur": -28.0,
+      "cur_d": "2026-11-20",
+      "old": -29.0,
+      "old_d": "2026-11-13",
+      "chg": 1.0
      },
      {
       "sheet": "CountryElevators_SouthCentral",
-      "cur": -29.0,
-      "cur_d": "2026-11-13",
-      "old": -33.0,
-      "old_d": "2026-11-06",
-      "chg": 4.0
+      "cur": -25.5,
+      "cur_d": "2026-11-20",
+      "old": -29.0,
+      "old_d": "2026-11-13",
+      "chg": 3.5
      },
      {
       "sheet": "CountryElevators_Southwest",
-      "cur": -13.0,
-      "cur_d": "2026-11-13",
-      "old": -22.0,
-      "old_d": "2026-11-06",
-      "chg": 9.0
+      "cur": -12.0,
+      "cur_d": "2026-11-20",
+      "old": -13.0,
+      "old_d": "2026-11-13",
+      "chg": 1.0
      },
      {
       "sheet": "CountryElevators_Wabash",
       "cur": -27.5,
-      "cur_d": "2026-11-13",
-      "old": -32.5,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur_d": "2026-11-20",
+      "old": -27.5,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "CountryElevators_West",
       "cur": -38.0,
-      "cur_d": "2026-11-13",
-      "old": -46.0,
-      "old_d": "2026-11-06",
-      "chg": 8.0
+      "cur_d": "2026-11-20",
+      "old": -38.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      }
     ]
    },
    "IN": {
-    "cur": -30.0,
-    "chg": 2.5,
+    "cur": -27.5,
+    "chg": 3.0,
     "sheets": [
      {
       "sheet": "CountryElevators_Central",
       "cur": -45.0,
-      "cur_d": "2026-11-13",
-      "old": -50.0,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur_d": "2026-11-20",
+      "old": -45.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "CountryElevators_East",
-      "cur": -35.0,
-      "cur_d": "2026-11-13",
+      "cur": -32.5,
+      "cur_d": "2026-11-20",
       "old": -35.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
-     },
-     {
-      "sheet": "CountryElevators_North",
-      "cur": -40.0,
-      "cur_d": "2026-11-13",
-      "old": -42.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 2.5
      },
      {
+      "sheet": "CountryElevators_North",
+      "cur": -27.5,
+      "cur_d": "2026-11-20",
+      "old": -40.0,
+      "old_d": "2026-11-13",
+      "chg": 12.5
+     },
+     {
       "sheet": "CountryElevators_Northeast",
-      "cur": -25.0,
-      "cur_d": "2026-11-13",
+      "cur": -15.0,
+      "cur_d": "2026-11-20",
       "old": -25.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 10.0
      },
      {
       "sheet": "CountryElevators_Northwest",
       "cur": -30.0,
-      "cur_d": "2026-11-13",
-      "old": -35.0,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur_d": "2026-11-20",
+      "old": -30.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "CountryElevators_Southwest",
-      "cur": -20.0,
-      "cur_d": "2026-11-13",
-      "old": -22.0,
-      "old_d": "2026-11-06",
-      "chg": 2.0
+      "cur": -17.0,
+      "cur_d": "2026-11-20",
+      "old": -20.0,
+      "old_d": "2026-11-13",
+      "chg": 3.0
      },
      {
       "sheet": "CountryElevators_West",
-      "cur": -27.5,
-      "cur_d": "2026-11-13",
-      "old": -31.0,
-      "old_d": "2026-11-06",
-      "chg": 3.5
+      "cur": -22.5,
+      "cur_d": "2026-11-20",
+      "old": -27.5,
+      "old_d": "2026-11-13",
+      "chg": 5.0
      }
     ]
    },
    "IA": {
-    "cur": -72.75,
-    "chg": 1.0,
+    "cur": -71.75,
+    "chg": 0.0,
     "sheets": [
      {
       "sheet": "Country_NorthCentral",
       "cur": -74.5,
-      "cur_d": "2026-11-13",
-      "old": -75.5,
-      "old_d": "2026-11-06",
-      "chg": 1.0
+      "cur_d": "2026-11-20",
+      "old": -74.5,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Northeast",
-      "cur": -73.0,
-      "cur_d": "2026-11-13",
-      "old": -74.0,
-      "old_d": "2026-11-06",
-      "chg": 1.0
+      "cur": -71.0,
+      "cur_d": "2026-11-20",
+      "old": -73.0,
+      "old_d": "2026-11-13",
+      "chg": 2.0
      },
      {
       "sheet": "Country_Northwest",
       "cur": -67.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -67.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_SouthCentral",
       "cur": -77.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -77.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Southeast",
-      "cur": -59.0,
-      "cur_d": "2026-11-13",
-      "old": -61.5,
-      "old_d": "2026-11-06",
-      "chg": 2.5
+      "cur": -61.5,
+      "cur_d": "2026-11-20",
+      "old": -59.0,
+      "old_d": "2026-11-13",
+      "chg": -2.5
      },
      {
       "sheet": "Country_Southwest",
       "cur": -72.5,
-      "cur_d": "2026-11-13",
-      "old": -77.5,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur_d": "2026-11-20",
+      "old": -72.5,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      }
     ]
    },
@@ -258,33 +258,33 @@
      {
       "sheet": "Country_Northwest",
       "cur": -95.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -95.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_South",
       "cur": -85.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -85.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Southwest",
       "cur": -92.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -92.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_West",
       "cur": -110.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -110.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
@@ -296,42 +296,42 @@
      {
       "sheet": "Country_Bluegrass",
       "cur": -72.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -72.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_GreenRiver",
       "cur": -45.0,
-      "cur_d": "2026-11-13",
-      "old": -55.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-20",
+      "old": -45.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Louisville",
       "cur": -63.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -63.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Pennyrile",
-      "cur": -4.5,
-      "cur_d": "2026-11-13",
-      "old": -5.0,
-      "old_d": "2026-11-06",
-      "chg": 0.5
+      "cur": -2.5,
+      "cur_d": "2026-11-20",
+      "old": -4.5,
+      "old_d": "2026-11-13",
+      "chg": 2.0
      },
      {
       "sheet": "Country_Purchase",
-      "cur": 12.0,
-      "cur_d": "2026-11-13",
+      "cur": 20.0,
+      "cur_d": "2026-11-20",
       "old": 12.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 8.0
      }
     ]
    },
@@ -342,63 +342,63 @@
      {
       "sheet": "Country_South",
       "cur": -66.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -66.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
    },
    "MO": {
-    "cur": -43.0,
-    "chg": 7.5,
+    "cur": -40.25,
+    "chg": 1.25,
     "sheets": [
      {
       "sheet": "Country_Central",
       "cur": -30.0,
-      "cur_d": "2026-11-13",
-      "old": -40.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-20",
+      "old": -30.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_NorthCentral",
       "cur": -43.0,
-      "cur_d": "2026-11-13",
-      "old": -55.0,
-      "old_d": "2026-11-06",
-      "chg": 12.0
+      "cur_d": "2026-11-20",
+      "old": -43.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Northeast",
-      "cur": -43.0,
-      "cur_d": "2026-11-13",
-      "old": -67.0,
-      "old_d": "2026-11-06",
-      "chg": 24.0
+      "cur": -31.0,
+      "cur_d": "2026-11-20",
+      "old": -43.0,
+      "old_d": "2026-11-13",
+      "chg": 12.0
      },
      {
       "sheet": "Country_Northwest",
       "cur": -47.5,
-      "cur_d": "2026-11-13",
-      "old": -50.0,
-      "old_d": "2026-11-06",
-      "chg": 2.5
+      "cur_d": "2026-11-20",
+      "old": -47.5,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Southwest",
-      "cur": -50.0,
-      "cur_d": "2026-11-13",
-      "old": -55.0,
-      "old_d": "2026-11-06",
+      "cur": -45.0,
+      "cur_d": "2026-11-20",
+      "old": -50.0,
+      "old_d": "2026-11-13",
       "chg": 5.0
      },
      {
       "sheet": "Country_WestCentral",
-      "cur": -40.0,
-      "cur_d": "2026-11-13",
-      "old": -42.5,
-      "old_d": "2026-11-06",
+      "cur": -37.5,
+      "cur_d": "2026-11-20",
+      "old": -40.0,
+      "old_d": "2026-11-13",
       "chg": 2.5
      }
     ]
@@ -410,49 +410,49 @@
      {
       "sheet": "Country_Central",
       "cur": -90.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -90.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_East",
       "cur": -83.5,
-      "cur_d": "2026-11-13",
-      "old": -85.5,
-      "old_d": "2026-11-06",
-      "chg": 2.0
+      "cur_d": "2026-11-20",
+      "old": -83.5,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Northwest",
       "cur": -122.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -122.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_South",
       "cur": -82.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -82.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Southeast",
-      "cur": -72.0,
-      "cur_d": "2026-11-13",
-      "old": -76.5,
-      "old_d": "2026-11-06",
-      "chg": 4.5
+      "cur": -73.5,
+      "cur_d": "2026-11-20",
+      "old": -72.0,
+      "old_d": "2026-11-13",
+      "chg": -1.5
      },
      {
       "sheet": "Country_Southwest",
       "cur": -97.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -97.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
@@ -463,99 +463,99 @@
     "sheets": [
      {
       "sheet": "Country_Southeast",
-      "cur": -60.0,
-      "cur_d": "2026-11-13",
+      "cur": -45.0,
+      "cur_d": "2026-11-20",
       "old": -60.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 15.0
      },
      {
       "sheet": "Country_West",
-      "cur": -55.0,
-      "cur_d": "2026-11-13",
+      "cur": -65.0,
+      "cur_d": "2026-11-20",
       "old": -55.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": -10.0
      },
      {
       "sheet": "Country_Calypso",
       "cur": -30.0,
-      "cur_d": "2026-11-13",
-      "old": -40.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-20",
+      "old": -30.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Clinton",
       "cur": -30.0,
-      "cur_d": "2026-11-13",
-      "old": -40.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-20",
+      "old": -30.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_ElizabethCity",
       "cur": -35.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -35.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_FourOaks",
       "cur": -30.0,
-      "cur_d": "2026-11-13",
-      "old": -40.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-20",
+      "old": -30.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Hobbsville",
       "cur": 0.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 0.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_LaGrange",
       "cur": -40.0,
-      "cur_d": "2026-11-13",
-      "old": -50.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-17",
+      "old": -40.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Walstonburg",
       "cur": -40.0,
-      "cur_d": "2026-11-13",
-      "old": -50.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-20",
+      "old": -40.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Bladenboro",
       "cur": -10.0,
-      "cur_d": "2026-11-13",
-      "old": 5.0,
-      "old_d": "2026-11-06",
-      "chg": -15.0
+      "cur_d": "2026-11-20",
+      "old": -10.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_RedSprings",
       "cur": -10.0,
-      "cur_d": "2026-11-13",
-      "old": 0.0,
-      "old_d": "2026-11-06",
-      "chg": -10.0
+      "cur_d": "2026-11-20",
+      "old": -10.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Warsaw",
       "cur": -45.0,
-      "cur_d": "2026-11-13",
-      "old": -40.0,
-      "old_d": "2026-11-06",
-      "chg": -5.0
+      "cur_d": "2026-11-20",
+      "old": -45.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      }
     ]
    },
@@ -565,65 +565,65 @@
     "sheets": [
      {
       "sheet": "CountryElevators_Central",
-      "cur": -77.5,
-      "cur_d": "2026-11-13",
+      "cur": -75.0,
+      "cur_d": "2026-11-20",
       "old": -77.5,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 2.5
      },
      {
       "sheet": "CountryElevators_EastCentral",
       "cur": -75.0,
-      "cur_d": "2026-11-13",
-      "old": -77.5,
-      "old_d": "2026-11-06",
-      "chg": 2.5
+      "cur_d": "2026-11-20",
+      "old": -75.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "CountryElevators_NorthCentral",
       "cur": -85.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -85.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_Northeast",
       "cur": -100.0,
-      "cur_d": "2026-11-13",
-      "old": -105.0,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur_d": "2026-11-20",
+      "old": -100.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "CountryElevators_Northwest",
       "cur": -100.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -100.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
    },
    "OH": {
-    "cur": -43.75,
-    "chg": 10.0,
+    "cur": -38.75,
+    "chg": 5.0,
     "sheets": [
      {
       "sheet": "Country_Central",
-      "cur": -20.0,
-      "cur_d": "2026-11-13",
-      "old": -25.0,
-      "old_d": "2026-11-06",
+      "cur": -15.0,
+      "cur_d": "2026-11-20",
+      "old": -20.0,
+      "old_d": "2026-11-13",
       "chg": 5.0
      },
      {
       "sheet": "Country_East",
-      "cur": -67.5,
-      "cur_d": "2026-11-13",
-      "old": -82.5,
-      "old_d": "2026-11-06",
-      "chg": 15.0
+      "cur": -62.5,
+      "cur_d": "2026-11-20",
+      "old": -67.5,
+      "old_d": "2026-11-13",
+      "chg": 5.0
      }
     ]
    },
@@ -634,57 +634,57 @@
      {
       "sheet": "Country_Central",
       "cur": -48.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -48.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_NorthCentral",
       "cur": -50.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -50.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Northwest",
       "cur": -65.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -65.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_West",
       "cur": -70.0,
-      "cur_d": "2026-11-13",
-      "old": -80.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-20",
+      "old": -70.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Manchester",
       "cur": -50.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -50.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Medford",
       "cur": -50.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -50.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_PoncaCity",
       "cur": -50.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -50.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
@@ -696,79 +696,79 @@
      {
       "sheet": "CountryElevators_Central",
       "cur": -85.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -85.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_EastCentral",
       "cur": -64.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -64.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_NorthCentral",
       "cur": -77.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -77.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "CountryElevators_Northeast",
-      "cur": -91.0,
-      "cur_d": "2026-11-13",
-      "old": -93.0,
-      "old_d": "2026-11-06",
-      "chg": 2.0
+      "cur": -90.0,
+      "cur_d": "2026-11-20",
+      "old": -91.0,
+      "old_d": "2026-11-13",
+      "chg": 1.0
      },
      {
       "sheet": "CountryElevators_Southeast",
       "cur": -2.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -2.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
    },
    "TN": {
-    "cur": -16.25,
-    "chg": -1.25,
+    "cur": -3.75,
+    "chg": 1.25,
     "sheets": [
      {
       "sheet": "Country_NorthCentral",
-      "cur": -10.0,
-      "cur_d": "2026-11-13",
-      "old": -12.5,
-      "old_d": "2026-11-06",
+      "cur": -7.5,
+      "cur_d": "2026-11-20",
+      "old": -10.0,
+      "old_d": "2026-11-13",
       "chg": 2.5
      },
      {
       "sheet": "Country_Northwest",
       "cur": -22.5,
-      "cur_d": "2026-11-13",
-      "old": -20.0,
-      "old_d": "2026-11-06",
-      "chg": -2.5
-     },
-     {
-      "sheet": "Country_SouthCentral",
-      "cur": -25.0,
-      "cur_d": "2026-11-13",
-      "old": -25.0,
-      "old_d": "2026-11-06",
+      "cur_d": "2026-11-20",
+      "old": -22.5,
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
+      "sheet": "Country_SouthCentral",
+      "cur": 0.0,
+      "cur_d": "2026-11-20",
+      "old": -25.0,
+      "old_d": "2026-11-13",
+      "chg": 25.0
+     },
+     {
       "sheet": "Country_WestCentral",
-      "cur": 10.0,
-      "cur_d": "2026-11-13",
-      "old": 15.0,
-      "old_d": "2026-11-06",
+      "cur": 5.0,
+      "cur_d": "2026-11-20",
+      "old": 10.0,
+      "old_d": "2026-11-13",
       "chg": -5.0
      }
     ]
@@ -780,49 +780,49 @@
      {
       "sheet": "Country_HarrisonburgArea",
       "cur": -75.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -75.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_MiddlePeninsulaArea",
       "cur": -45.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -45.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_NorfolkProducerArea",
       "cur": 0.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 0.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_PetersburgArea",
       "cur": -15.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -15.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_VAEasternShoreArea",
       "cur": -99.0,
-      "cur_d": "2026-11-13",
-      "old": -85.0,
-      "old_d": "2026-11-06",
-      "chg": -14.0
+      "cur_d": "2026-11-20",
+      "old": -99.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_WakefieldArea",
       "cur": 0.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 0.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
@@ -830,172 +830,172 @@
   },
   "barge": {
    "IL": {
-    "cur": 1.5,
-    "chg": 6.5,
+    "cur": 2.0,
+    "chg": 4.5,
     "sheets": [
      {
       "sheet": "BargeLoadingElevators_Mississip",
-      "cur": 33.0,
-      "cur_d": "2026-11-13",
+      "cur": 40.0,
+      "cur_d": "2026-11-20",
       "old": 33.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 7.0
      },
      {
       "sheet": "BargeLoadingElevators_NorthIlli",
-      "cur": -3.5,
-      "cur_d": "2026-11-13",
-      "old": -14.5,
-      "old_d": "2026-11-06",
-      "chg": 11.0
+      "cur": 1.0,
+      "cur_d": "2026-11-20",
+      "old": -3.5,
+      "old_d": "2026-11-13",
+      "chg": 4.5
      },
      {
       "sheet": "BargeLoadingElevators_SouthIlli",
-      "cur": 1.5,
-      "cur_d": "2026-11-13",
-      "old": -5.0,
-      "old_d": "2026-11-06",
-      "chg": 6.5
+      "cur": 2.0,
+      "cur_d": "2026-11-20",
+      "old": 1.5,
+      "old_d": "2026-11-13",
+      "chg": 0.5
      }
     ]
    },
    "IN": {
-    "cur": 16.25,
-    "chg": 3.5,
+    "cur": 19.5,
+    "chg": 3.25,
     "sheets": [
      {
       "sheet": "BargeLoadingElevators_OhioRiver",
-      "cur": 16.25,
-      "cur_d": "2026-11-13",
-      "old": 12.75,
-      "old_d": "2026-11-06",
-      "chg": 3.5
+      "cur": 19.5,
+      "cur_d": "2026-11-20",
+      "old": 16.25,
+      "old_d": "2026-11-13",
+      "chg": 3.25
      }
     ]
    },
    "KY": {
-    "cur": 16.5,
-    "chg": 4.0,
+    "cur": 15.5,
+    "chg": 0.5,
     "sheets": [
      {
       "sheet": "Barge_OhioRiverLower",
-      "cur": 16.5,
-      "cur_d": "2026-11-13",
-      "old": 12.5,
-      "old_d": "2026-11-06",
-      "chg": 4.0
+      "cur": 15.5,
+      "cur_d": "2026-11-20",
+      "old": 16.5,
+      "old_d": "2026-11-13",
+      "chg": -1.0
      },
      {
       "sheet": "Barge_OhioRiverUpper",
-      "cur": 0.5,
-      "cur_d": "2026-11-13",
-      "old": -4.5,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur": 7.5,
+      "cur_d": "2026-11-20",
+      "old": 0.5,
+      "old_d": "2026-11-13",
+      "chg": 7.0
      },
      {
       "sheet": "Barge_Purchase",
-      "cur": 22.5,
-      "cur_d": "2026-11-13",
-      "old": 21.0,
-      "old_d": "2026-11-06",
-      "chg": 1.5
+      "cur": 23.0,
+      "cur_d": "2026-11-20",
+      "old": 22.5,
+      "old_d": "2026-11-13",
+      "chg": 0.5
      }
     ]
    },
    "MN": {
-    "cur": -22.0,
-    "chg": 1.5,
+    "cur": -35.0,
+    "chg": 3.0,
     "sheets": [
      {
       "sheet": "Barge_NorthIowaMSRiver",
-      "cur": -22.0,
-      "cur_d": "2026-11-13",
-      "old": -23.5,
-      "old_d": "2026-11-06",
-      "chg": 1.5
+      "cur": -35.0,
+      "cur_d": "2026-11-20",
+      "old": -22.0,
+      "old_d": "2026-11-13",
+      "chg": -13.0
      },
      {
       "sheet": "Barge_SouthIowaMSRiver",
-      "cur": -22.0,
-      "cur_d": "2026-11-13",
-      "old": -28.0,
-      "old_d": "2026-11-06",
-      "chg": 6.0
+      "cur": -19.0,
+      "cur_d": "2026-11-20",
+      "old": -22.0,
+      "old_d": "2026-11-13",
+      "chg": 3.0
      },
      {
       "sheet": "Barge_SouthMinnesotaMSRiver",
-      "cur": -50.0,
-      "cur_d": "2026-11-13",
-      "old": -48.5,
-      "old_d": "2026-11-06",
-      "chg": -1.5
+      "cur": -44.0,
+      "cur_d": "2026-11-20",
+      "old": -50.0,
+      "old_d": "2026-11-13",
+      "chg": 6.0
      }
     ]
    },
    "MO": {
-    "cur": 10.25,
-    "chg": 5.0,
+    "cur": 12.5,
+    "chg": 2.25,
     "sheets": [
      {
       "sheet": "Barge_NortheastMissouriMSRiver",
-      "cur": -11.5,
-      "cur_d": "2026-11-13",
-      "old": -21.5,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur": -9.5,
+      "cur_d": "2026-11-20",
+      "old": -11.5,
+      "old_d": "2026-11-13",
+      "chg": 2.0
      },
      {
       "sheet": "Barge_SoutheastMissouriMSRiver",
-      "cur": 32.0,
-      "cur_d": "2026-11-13",
+      "cur": 34.5,
+      "cur_d": "2026-11-20",
       "old": 32.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 2.5
      }
     ]
    },
    "OH": {
-    "cur": 2.0,
-    "chg": 7.5,
+    "cur": 8.0,
+    "chg": 6.0,
     "sheets": [
      {
       "sheet": "Barge_OhioRiver",
-      "cur": 2.0,
-      "cur_d": "2026-11-13",
-      "old": -5.5,
-      "old_d": "2026-11-06",
-      "chg": 7.5
+      "cur": 8.0,
+      "cur_d": "2026-11-20",
+      "old": 2.0,
+      "old_d": "2026-11-13",
+      "chg": 6.0
      }
     ]
    },
    "TN": {
-    "cur": 34.0,
-    "chg": 0.0,
+    "cur": 37.5,
+    "chg": 3.5,
     "sheets": [
      {
       "sheet": "Barge_MississippiRiver",
-      "cur": 34.0,
-      "cur_d": "2026-11-13",
+      "cur": 37.5,
+      "cur_d": "2026-11-20",
       "old": 34.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 3.5
      }
     ]
    }
   },
   "export": {
    "LA": {
-    "cur": 105.5,
-    "chg": -4.0,
+    "cur": 100.0,
+    "chg": -5.5,
     "sheets": [
      {
       "sheet": "Soybeans_GulfCoastPortsLA",
-      "cur": 105.5,
-      "cur_d": "2026-11-13",
-      "old": 109.5,
-      "old_d": "2026-11-06",
-      "chg": -4.0
+      "cur": 100.0,
+      "cur_d": "2026-11-20",
+      "old": 105.5,
+      "old_d": "2026-11-13",
+      "chg": -5.5
      }
     ]
    }
@@ -1008,118 +1008,118 @@
      {
       "sheet": "MillsandProcessors_Stuttgart",
       "cur": -20.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -20.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
    },
    "IL": {
-    "cur": 10.0,
-    "chg": 5.5,
+    "cur": 14.0,
+    "chg": 4.0,
     "sheets": [
      {
       "sheet": "MillsandProcessors_Central",
-      "cur": 10.0,
-      "cur_d": "2026-11-13",
-      "old": 4.5,
-      "old_d": "2026-11-06",
-      "chg": 5.5
+      "cur": 14.0,
+      "cur_d": "2026-11-20",
+      "old": 10.0,
+      "old_d": "2026-11-13",
+      "chg": 4.0
      }
     ]
    },
    "IN": {
-    "cur": 0.0,
+    "cur": 7.5,
     "chg": 7.5,
     "sheets": [
      {
       "sheet": "MillsandProcessors_",
-      "cur": 0.0,
-      "cur_d": "2026-11-13",
-      "old": -7.5,
-      "old_d": "2026-11-06",
+      "cur": 7.5,
+      "cur_d": "2026-11-20",
+      "old": 0.0,
+      "old_d": "2026-11-13",
       "chg": 7.5
      }
     ]
    },
    "IA": {
     "cur": -32.5,
-    "chg": -2.5,
+    "chg": 0.0,
     "sheets": [
      {
       "sheet": "MillsProc",
       "cur": -32.5,
-      "cur_d": "2026-11-13",
-      "old": -30.0,
-      "old_d": "2026-11-06",
-      "chg": -2.5
+      "cur_d": "2026-11-20",
+      "old": -32.5,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      }
     ]
    },
    "KS": {
-    "cur": 25.0,
+    "cur": 30.0,
     "chg": 0.0,
     "sheets": [
      {
       "sheet": "MillsProc_East",
-      "cur": 25.0,
-      "cur_d": "2026-11-13",
+      "cur": 30.0,
+      "cur_d": "2026-11-20",
       "old": 25.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 5.0
      },
      {
       "sheet": "MillsProc_South",
       "cur": 45.0,
-      "cur_d": "2026-11-13",
-      "old": 35.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-20",
+      "old": 45.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "MillsProc_Southeast",
-      "cur": 15.0,
-      "cur_d": "2026-11-13",
-      "old": 25.0,
-      "old_d": "2026-11-06",
+      "cur": 5.0,
+      "cur_d": "2026-11-20",
+      "old": 15.0,
+      "old_d": "2026-11-13",
       "chg": -10.0
      }
     ]
    },
    "NC": {
-    "cur": 7.5,
-    "chg": 0.0,
+    "cur": 12.5,
+    "chg": 5.0,
     "sheets": [
      {
       "sheet": "MillsProc_Northeast",
-      "cur": -20.0,
-      "cur_d": "2026-11-13",
+      "cur": -10.0,
+      "cur_d": "2026-11-20",
       "old": -20.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 10.0
      },
      {
       "sheet": "MillsProc_Southeast",
       "cur": 35.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 35.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
    },
    "OH": {
-    "cur": -7.5,
-    "chg": 2.5,
+    "cur": 0.0,
+    "chg": 7.5,
     "sheets": [
      {
       "sheet": "Mills and Processors",
-      "cur": -7.5,
-      "cur_d": "2026-11-13",
-      "old": -10.0,
-      "old_d": "2026-11-06",
-      "chg": 2.5
+      "cur": 0.0,
+      "cur_d": "2026-11-20",
+      "old": -7.5,
+      "old_d": "2026-11-13",
+      "chg": 7.5
      }
     ]
    }
@@ -1134,25 +1134,25 @@
      {
       "sheet": "Country_Elaine",
       "cur": 26.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 26.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Helena",
       "cur": 26.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 26.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_WestMemphis",
       "cur": 32.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 32.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
@@ -1164,212 +1164,212 @@
      {
       "sheet": "Country_East",
       "cur": 31.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 31.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_NorthCentral",
       "cur": 85.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 85.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Northeast",
       "cur": 27.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 27.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Southeast",
       "cur": -20.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -20.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
    },
    "IL": {
-    "cur": -18.0,
-    "chg": 4.5,
+    "cur": -17.0,
+    "chg": 0.0,
     "sheets": [
      {
       "sheet": "Country_LittleEgypt",
-      "cur": 5.0,
-      "cur_d": "2026-11-13",
-      "old": 0.0,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur": 1.5,
+      "cur_d": "2026-11-20",
+      "old": 5.0,
+      "old_d": "2026-11-13",
+      "chg": -3.5
      },
      {
       "sheet": "Country_North",
-      "cur": -27.5,
-      "cur_d": "2026-11-13",
+      "cur": -25.0,
+      "cur_d": "2026-11-20",
       "old": -27.5,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 2.5
      },
      {
       "sheet": "Country_NorthCentral",
       "cur": -20.0,
-      "cur_d": "2026-11-13",
-      "old": -25.0,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur_d": "2026-11-20",
+      "old": -20.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_SouthCentral",
-      "cur": -18.0,
-      "cur_d": "2026-11-13",
-      "old": -22.5,
-      "old_d": "2026-11-06",
-      "chg": 4.5
+      "cur": -17.0,
+      "cur_d": "2026-11-20",
+      "old": -18.0,
+      "old_d": "2026-11-13",
+      "chg": 1.0
      },
      {
       "sheet": "Country_Southwest",
-      "cur": -14.0,
-      "cur_d": "2026-11-13",
-      "old": -32.5,
-      "old_d": "2026-11-06",
-      "chg": 18.5
+      "cur": -17.0,
+      "cur_d": "2026-11-20",
+      "old": -14.0,
+      "old_d": "2026-11-13",
+      "chg": -3.0
      },
      {
       "sheet": "Country_Wabash",
-      "cur": -12.0,
-      "cur_d": "2026-11-13",
-      "old": -15.5,
-      "old_d": "2026-11-06",
-      "chg": 3.5
+      "cur": -9.0,
+      "cur_d": "2026-11-20",
+      "old": -12.0,
+      "old_d": "2026-11-13",
+      "chg": 3.0
      },
      {
       "sheet": "Country_West",
       "cur": -27.0,
-      "cur_d": "2026-11-13",
-      "old": -24.5,
-      "old_d": "2026-11-06",
-      "chg": -2.5
+      "cur_d": "2026-11-20",
+      "old": -27.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      }
     ]
    },
    "IN": {
-    "cur": -1.0,
-    "chg": 7.5,
+    "cur": 3.0,
+    "chg": 4.0,
     "sheets": [
      {
       "sheet": "Country_Central",
       "cur": -5.5,
-      "cur_d": "2026-11-13",
-      "old": -13.5,
-      "old_d": "2026-11-06",
-      "chg": 8.0
+      "cur_d": "2026-11-20",
+      "old": -5.5,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_East",
-      "cur": -9.0,
-      "cur_d": "2026-11-13",
-      "old": -14.0,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur": -8.0,
+      "cur_d": "2026-11-20",
+      "old": -9.0,
+      "old_d": "2026-11-13",
+      "chg": 1.0
      },
      {
       "sheet": "Country_North",
-      "cur": -12.0,
-      "cur_d": "2026-11-13",
-      "old": -15.0,
-      "old_d": "2026-11-06",
-      "chg": 3.0
+      "cur": -2.5,
+      "cur_d": "2026-11-20",
+      "old": -12.0,
+      "old_d": "2026-11-13",
+      "chg": 9.5
      },
      {
       "sheet": "Country_Northeast",
-      "cur": 4.0,
-      "cur_d": "2026-11-13",
-      "old": 2.0,
-      "old_d": "2026-11-06",
-      "chg": 2.0
-     },
-     {
-      "sheet": "Country_Northwest",
-      "cur": 12.5,
-      "cur_d": "2026-11-13",
-      "old": 2.5,
-      "old_d": "2026-11-06",
-      "chg": 10.0
-     },
-     {
-      "sheet": "Country_Southwest",
-      "cur": -1.0,
-      "cur_d": "2026-11-13",
-      "old": -10.0,
-      "old_d": "2026-11-06",
-      "chg": 9.0
-     },
-     {
-      "sheet": "Country_West",
-      "cur": -1.0,
-      "cur_d": "2026-11-13",
-      "old": -8.5,
-      "old_d": "2026-11-06",
-      "chg": 7.5
-     }
-    ]
-   },
-   "IA": {
-    "cur": -35.5,
-    "chg": 4.25,
-    "sheets": [
-     {
-      "sheet": "Country_NorthCentral",
-      "cur": -37.5,
-      "cur_d": "2026-11-13",
-      "old": -44.0,
-      "old_d": "2026-11-06",
-      "chg": 6.5
-     },
-     {
-      "sheet": "Country_Northeast",
-      "cur": -41.5,
-      "cur_d": "2026-11-13",
-      "old": -47.5,
-      "old_d": "2026-11-06",
+      "cur": 10.0,
+      "cur_d": "2026-11-20",
+      "old": 4.0,
+      "old_d": "2026-11-13",
       "chg": 6.0
      },
      {
       "sheet": "Country_Northwest",
-      "cur": -37.0,
-      "cur_d": "2026-11-13",
-      "old": -38.5,
-      "old_d": "2026-11-06",
-      "chg": 1.5
-     },
-     {
-      "sheet": "Country_SouthCentral",
-      "cur": -34.0,
-      "cur_d": "2026-11-13",
-      "old": -35.0,
-      "old_d": "2026-11-06",
-      "chg": 1.0
-     },
-     {
-      "sheet": "Country_Southeast",
-      "cur": -32.5,
-      "cur_d": "2026-11-13",
-      "old": -36.0,
-      "old_d": "2026-11-06",
-      "chg": 3.5
+      "cur": 15.0,
+      "cur_d": "2026-11-20",
+      "old": 12.5,
+      "old_d": "2026-11-13",
+      "chg": 2.5
      },
      {
       "sheet": "Country_Southwest",
-      "cur": -33.5,
-      "cur_d": "2026-11-13",
-      "old": -38.5,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur": 5.0,
+      "cur_d": "2026-11-20",
+      "old": -1.0,
+      "old_d": "2026-11-13",
+      "chg": 6.0
+     },
+     {
+      "sheet": "Country_West",
+      "cur": 3.0,
+      "cur_d": "2026-11-20",
+      "old": -1.0,
+      "old_d": "2026-11-13",
+      "chg": 4.0
+     }
+    ]
+   },
+   "IA": {
+    "cur": -31.5,
+    "chg": 2.5,
+    "sheets": [
+     {
+      "sheet": "Country_NorthCentral",
+      "cur": -35.0,
+      "cur_d": "2026-11-20",
+      "old": -37.5,
+      "old_d": "2026-11-13",
+      "chg": 2.5
+     },
+     {
+      "sheet": "Country_Northeast",
+      "cur": -43.0,
+      "cur_d": "2026-11-20",
+      "old": -41.5,
+      "old_d": "2026-11-13",
+      "chg": -1.5
+     },
+     {
+      "sheet": "Country_Northwest",
+      "cur": -30.0,
+      "cur_d": "2026-11-20",
+      "old": -37.0,
+      "old_d": "2026-11-13",
+      "chg": 7.0
+     },
+     {
+      "sheet": "Country_SouthCentral",
+      "cur": -31.5,
+      "cur_d": "2026-11-20",
+      "old": -34.0,
+      "old_d": "2026-11-13",
+      "chg": 2.5
+     },
+     {
+      "sheet": "Country_Southeast",
+      "cur": -31.5,
+      "cur_d": "2026-11-20",
+      "old": -32.5,
+      "old_d": "2026-11-13",
+      "chg": 1.0
+     },
+     {
+      "sheet": "Country_Southwest",
+      "cur": -30.5,
+      "cur_d": "2026-11-20",
+      "old": -33.5,
+      "old_d": "2026-11-13",
+      "chg": 3.0
      }
     ]
    },
@@ -1380,247 +1380,279 @@
      {
       "sheet": "Country_Central",
       "cur": -35.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -35.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Northwest",
       "cur": -10.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -10.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_South",
       "cur": 15.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 15.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Southwest",
       "cur": 12.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 12.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_West",
       "cur": -12.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -12.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
    },
    "KY": {
-    "cur": -3.5,
-    "chg": 10.0,
+    "cur": -4.5,
+    "chg": 0.0,
     "sheets": [
      {
       "sheet": "Country_Bluegrass",
       "cur": -35.0,
-      "cur_d": "2026-11-13",
-      "old": -48.0,
-      "old_d": "2026-11-06",
-      "chg": 13.0
+      "cur_d": "2026-11-20",
+      "old": -35.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_GreenRiver",
       "cur": 10.0,
-      "cur_d": "2026-11-13",
-      "old": 0.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-20",
+      "old": 10.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Louisville",
       "cur": -21.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -21.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Pennyrile",
-      "cur": -3.5,
-      "cur_d": "2026-11-13",
-      "old": -6.0,
-      "old_d": "2026-11-06",
-      "chg": 2.5
+      "cur": -4.5,
+      "cur_d": "2026-11-20",
+      "old": -3.5,
+      "old_d": "2026-11-13",
+      "chg": -1.0
      },
      {
       "sheet": "Country_Purchase",
       "cur": 20.0,
-      "cur_d": "2026-11-13",
-      "old": 10.0,
-      "old_d": "2026-11-06",
-      "chg": 10.0
+      "cur_d": "2026-11-20",
+      "old": 20.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      }
     ]
    },
    "MN": {
-    "cur": -49.0,
-    "chg": 1.0,
+    "cur": -44.0,
+    "chg": 5.0,
     "sheets": [
      {
       "sheet": "Country_South",
-      "cur": -49.0,
-      "cur_d": "2026-11-13",
-      "old": -50.0,
-      "old_d": "2026-11-06",
-      "chg": 1.0
+      "cur": -44.0,
+      "cur_d": "2026-11-20",
+      "old": -49.0,
+      "old_d": "2026-11-13",
+      "chg": 5.0
      }
     ]
    },
    "MO": {
-    "cur": -27.5,
-    "chg": 7.5,
+    "cur": -22.5,
+    "chg": 2.5,
     "sheets": [
      {
       "sheet": "Country_Central",
-      "cur": -27.5,
-      "cur_d": "2026-11-13",
-      "old": -35.0,
-      "old_d": "2026-11-06",
-      "chg": 7.5
+      "cur": -22.5,
+      "cur_d": "2026-11-20",
+      "old": -27.5,
+      "old_d": "2026-11-13",
+      "chg": 5.0
      },
      {
       "sheet": "Country_NorthCentral",
       "cur": -30.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -30.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Northwest",
-      "cur": -30.0,
-      "cur_d": "2026-11-13",
-      "old": -35.0,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur": -27.5,
+      "cur_d": "2026-11-20",
+      "old": -30.0,
+      "old_d": "2026-11-13",
+      "chg": 2.5
      },
      {
       "sheet": "Country_Southwest",
       "cur": -10.0,
-      "cur_d": "2026-11-13",
-      "old": -22.5,
-      "old_d": "2026-11-06",
-      "chg": 12.5
+      "cur_d": "2026-11-20",
+      "old": -10.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_WestCentral",
-      "cur": -17.5,
-      "cur_d": "2026-11-13",
-      "old": -25.0,
-      "old_d": "2026-11-06",
-      "chg": 7.5
+      "cur": -15.0,
+      "cur_d": "2026-11-20",
+      "old": -17.5,
+      "old_d": "2026-11-13",
+      "chg": 2.5
      }
     ]
    },
    "NE": {
-    "cur": -26.0,
-    "chg": 1.0,
+    "cur": -25.0,
+    "chg": 0.0,
     "sheets": [
      {
       "sheet": "Country_Central",
-      "cur": -26.0,
-      "cur_d": "2026-11-13",
-      "old": -30.0,
-      "old_d": "2026-11-06",
-      "chg": 4.0
-     },
-     {
-      "sheet": "Country_East",
-      "cur": -41.5,
-      "cur_d": "2026-11-13",
-      "old": -42.5,
-      "old_d": "2026-11-06",
+      "cur": -25.0,
+      "cur_d": "2026-11-20",
+      "old": -26.0,
+      "old_d": "2026-11-13",
       "chg": 1.0
      },
      {
+      "sheet": "Country_East",
+      "cur": -36.5,
+      "cur_d": "2026-11-20",
+      "old": -41.5,
+      "old_d": "2026-11-13",
+      "chg": 5.0
+     },
+     {
       "sheet": "Country_Northeast",
-      "cur": -35.0,
-      "cur_d": "2026-11-13",
-      "old": -38.0,
-      "old_d": "2026-11-06",
-      "chg": 3.0
+      "cur": -36.5,
+      "cur_d": "2026-11-20",
+      "old": -35.0,
+      "old_d": "2026-11-13",
+      "chg": -1.5
      },
      {
       "sheet": "Country_Northwest",
       "cur": 17.0,
-      "cur_d": "2026-11-13",
-      "old": 20.0,
-      "old_d": "2026-11-06",
-      "chg": -3.0
+      "cur_d": "2026-11-20",
+      "old": 17.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_South",
       "cur": -17.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -17.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Southeast",
-      "cur": -32.5,
-      "cur_d": "2026-11-13",
-      "old": -36.0,
-      "old_d": "2026-11-06",
-      "chg": 3.5
+      "cur": -31.5,
+      "cur_d": "2026-11-20",
+      "old": -32.5,
+      "old_d": "2026-11-13",
+      "chg": 1.0
      },
      {
       "sheet": "Country_Southwest",
       "cur": -1.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -1.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
    },
    "NC": {
-    "cur": 37.5,
+    "cur": 45.0,
     "chg": 0.0,
     "sheets": [
      {
       "sheet": "Country_Autryville",
-      "cur": 50.0,
-      "cur_d": "2026-11-13",
+      "cur": 60.0,
+      "cur_d": "2026-11-20",
       "old": 50.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
+      "chg": 10.0
+     },
+     {
+      "sheet": "Country_Calypso",
+      "cur": 45.0,
+      "cur_d": "2026-11-20",
+      "old": 45.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
+     },
+     {
+      "sheet": "Country_Clinton",
+      "cur": 45.0,
+      "cur_d": "2026-11-20",
+      "old": 45.0,
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_ElizabethCity",
       "cur": 10.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 10.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
+      "chg": 0.0
+     },
+     {
+      "sheet": "Country_FourOaks",
+      "cur": 45.0,
+      "cur_d": "2026-11-20",
+      "old": 45.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
+     },
+     {
+      "sheet": "Country_Hobbsville",
+      "cur": -10.0,
+      "cur_d": "2026-11-20",
+      "old": -10.0,
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Shelby",
-      "cur": 25.0,
-      "cur_d": "2026-11-13",
+      "cur": 30.0,
+      "cur_d": "2026-11-20",
       "old": 25.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 5.0
      },
      {
       "sheet": "Country_Warsaw",
       "cur": 85.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 85.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
@@ -1631,42 +1663,42 @@
     "sheets": [
      {
       "sheet": "Country_Central",
-      "cur": -82.5,
-      "cur_d": "2026-11-13",
+      "cur": -77.5,
+      "cur_d": "2026-11-20",
       "old": -82.5,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 5.0
      },
      {
       "sheet": "Country_EastCentral",
-      "cur": -82.5,
-      "cur_d": "2026-11-13",
+      "cur": -77.5,
+      "cur_d": "2026-11-20",
       "old": -82.5,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 5.0
      },
      {
       "sheet": "Country_NorthCentral",
       "cur": -87.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -87.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Northeast",
       "cur": -95.0,
-      "cur_d": "2026-11-13",
-      "old": -100.0,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur_d": "2026-11-20",
+      "old": -95.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Northwest",
       "cur": -90.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -90.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
@@ -1678,9 +1710,9 @@
      {
       "sheet": "Country_East",
       "cur": -60.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -60.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
@@ -1692,41 +1724,41 @@
      {
       "sheet": "Country_Hooker",
       "cur": 45.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 45.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Manchester",
       "cur": -35.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -35.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Medford",
       "cur": -35.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -35.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_PoncaCity",
       "cur": -30.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -30.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Weatherford",
       "cur": 20.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 20.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
@@ -1738,88 +1770,88 @@
      {
       "sheet": "Country_Central",
       "cur": -87.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -87.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_EastCentral",
-      "cur": -69.0,
-      "cur_d": "2026-11-13",
-      "old": -67.5,
-      "old_d": "2026-11-06",
-      "chg": -1.5
+      "cur": -67.5,
+      "cur_d": "2026-11-20",
+      "old": -69.0,
+      "old_d": "2026-11-13",
+      "chg": 1.5
      },
      {
       "sheet": "Country_NorthCentral",
       "cur": -85.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -85.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_Northeast",
       "cur": -82.5,
-      "cur_d": "2026-11-13",
-      "old": -80.0,
-      "old_d": "2026-11-06",
-      "chg": -2.5
+      "cur_d": "2026-11-20",
+      "old": -82.5,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_Southeast",
-      "cur": -44.0,
-      "cur_d": "2026-11-13",
-      "old": -46.0,
-      "old_d": "2026-11-06",
-      "chg": 2.0
+      "cur": -42.5,
+      "cur_d": "2026-11-20",
+      "old": -44.0,
+      "old_d": "2026-11-13",
+      "chg": 1.5
      }
     ]
    },
    "TN": {
-    "cur": 0.0,
+    "cur": 10.0,
     "chg": 0.0,
     "sheets": [
      {
       "sheet": "Country_NorthCentral",
-      "cur": -22.5,
-      "cur_d": "2026-11-13",
+      "cur": -20.0,
+      "cur_d": "2026-11-20",
       "old": -22.5,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 2.5
      },
      {
       "sheet": "Country_Northwest",
       "cur": -15.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -15.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_SouthCentral",
-      "cur": 0.0,
-      "cur_d": "2026-11-13",
+      "cur": 20.0,
+      "cur_d": "2026-11-20",
       "old": 0.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 20.0
      },
      {
       "sheet": "Country_West",
       "cur": 25.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 25.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_WestCentral",
-      "cur": 15.0,
-      "cur_d": "2026-11-13",
+      "cur": 10.0,
+      "cur_d": "2026-11-20",
       "old": 15.0,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": -5.0
      }
     ]
    },
@@ -1830,50 +1862,50 @@
      {
       "sheet": "Country_HarrisonburgArea",
       "cur": 80.0,
-      "cur_d": "2026-11-13",
-      "old": 75.0,
-      "old_d": "2026-11-06",
-      "chg": 5.0
+      "cur_d": "2026-11-20",
+      "old": 80.0,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      },
      {
       "sheet": "Country_MiddlePeninsulaArea",
       "cur": -40.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": -40.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_NorfolkProducerArea",
       "cur": 20.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 20.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_PetersburgArea",
       "cur": 0.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 0.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_VAEasternShoreArea",
       "cur": 20.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 20.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "Country_WakefieldArea",
       "cur": 32.5,
-      "cur_d": "2026-11-13",
-      "old": 25.0,
-      "old_d": "2026-11-06",
-      "chg": 7.5
+      "cur_d": "2026-11-20",
+      "old": 32.5,
+      "old_d": "2026-11-13",
+      "chg": 0.0
      }
     ]
    },
@@ -1884,9 +1916,9 @@
      {
       "sheet": "Country_Southeast",
       "cur": 27.5,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 27.5,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
@@ -1894,196 +1926,196 @@
   },
   "barge": {
    "IL": {
-    "cur": -1.0,
-    "chg": 4.5,
+    "cur": 2.5,
+    "chg": 2.0,
     "sheets": [
      {
       "sheet": "Barge_MississippiRiver",
-      "cur": 28.0,
-      "cur_d": "2026-11-13",
-      "old": 24.0,
-      "old_d": "2026-11-06",
-      "chg": 4.0
+      "cur": 30.0,
+      "cur_d": "2026-11-20",
+      "old": 28.0,
+      "old_d": "2026-11-13",
+      "chg": 2.0
      },
      {
       "sheet": "Barge_NorthIllinoisRiver",
-      "cur": -9.0,
-      "cur_d": "2026-11-13",
-      "old": -15.5,
-      "old_d": "2026-11-06",
-      "chg": 6.5
+      "cur": -9.5,
+      "cur_d": "2026-11-20",
+      "old": -9.0,
+      "old_d": "2026-11-13",
+      "chg": -0.5
      },
      {
       "sheet": "Barge_SouthIllinoisRiver",
-      "cur": -1.0,
-      "cur_d": "2026-11-13",
-      "old": -5.5,
-      "old_d": "2026-11-06",
-      "chg": 4.5
+      "cur": 2.5,
+      "cur_d": "2026-11-20",
+      "old": -1.0,
+      "old_d": "2026-11-13",
+      "chg": 3.5
      }
     ]
    },
    "IN": {
-    "cur": 5.0,
-    "chg": 7.0,
+    "cur": -5.5,
+    "chg": -10.5,
     "sheets": [
      {
       "sheet": "Barge_OhioRiver",
-      "cur": 5.0,
-      "cur_d": "2026-11-13",
-      "old": -2.0,
-      "old_d": "2026-11-06",
-      "chg": 7.0
+      "cur": -5.5,
+      "cur_d": "2026-11-20",
+      "old": 5.0,
+      "old_d": "2026-11-13",
+      "chg": -10.5
      }
     ]
    },
    "KY": {
-    "cur": 13.0,
-    "chg": 8.0,
+    "cur": 4.5,
+    "chg": -6.5,
     "sheets": [
      {
       "sheet": "Barge_OhioRiverLowerKY",
-      "cur": 13.0,
-      "cur_d": "2026-11-13",
-      "old": 5.0,
-      "old_d": "2026-11-06",
-      "chg": 8.0
+      "cur": 4.5,
+      "cur_d": "2026-11-20",
+      "old": 13.0,
+      "old_d": "2026-11-13",
+      "chg": -8.5
      },
      {
       "sheet": "Barge_OhioRiverUpperKY",
-      "cur": -1.0,
-      "cur_d": "2026-11-13",
-      "old": -9.5,
-      "old_d": "2026-11-06",
-      "chg": 8.5
+      "cur": -7.5,
+      "cur_d": "2026-11-20",
+      "old": -1.0,
+      "old_d": "2026-11-13",
+      "chg": -6.5
      },
      {
       "sheet": "Barge_Purchase",
-      "cur": 18.5,
-      "cur_d": "2026-11-13",
-      "old": 14.0,
-      "old_d": "2026-11-06",
-      "chg": 4.5
+      "cur": 14.0,
+      "cur_d": "2026-11-20",
+      "old": 18.5,
+      "old_d": "2026-11-13",
+      "chg": -4.5
      }
     ]
    },
    "MN": {
-    "cur": -20.5,
-    "chg": 6.5,
+    "cur": -23.5,
+    "chg": -1.0,
     "sheets": [
      {
       "sheet": "Barge_NorthIowaMSRiver",
-      "cur": -20.5,
-      "cur_d": "2026-11-13",
-      "old": -27.0,
-      "old_d": "2026-11-06",
-      "chg": 6.5
+      "cur": -23.5,
+      "cur_d": "2026-11-20",
+      "old": -20.5,
+      "old_d": "2026-11-13",
+      "chg": -3.0
      },
      {
       "sheet": "Barge_SouthIowaMSRiver",
-      "cur": -17.5,
-      "cur_d": "2026-11-13",
-      "old": -26.0,
-      "old_d": "2026-11-06",
-      "chg": 8.5
+      "cur": -18.5,
+      "cur_d": "2026-11-20",
+      "old": -17.5,
+      "old_d": "2026-11-13",
+      "chg": -1.0
      },
      {
       "sheet": "Barge_SouthMinnesotaMSRiver",
-      "cur": -51.0,
-      "cur_d": "2026-11-13",
-      "old": -52.5,
-      "old_d": "2026-11-06",
+      "cur": -49.5,
+      "cur_d": "2026-11-20",
+      "old": -51.0,
+      "old_d": "2026-11-13",
       "chg": 1.5
      }
     ]
    },
    "MO": {
-    "cur": 4.0,
-    "chg": 5.5,
+    "cur": 3.25,
+    "chg": -0.75,
     "sheets": [
      {
       "sheet": "Barge_NortheastMissouriMSRiver",
-      "cur": -16.0,
-      "cur_d": "2026-11-13",
-      "old": -23.0,
-      "old_d": "2026-11-06",
-      "chg": 7.0
+      "cur": -17.0,
+      "cur_d": "2026-11-20",
+      "old": -16.0,
+      "old_d": "2026-11-13",
+      "chg": -1.0
      },
      {
       "sheet": "Barge_SoutheastMissouriMSRiver",
-      "cur": 24.0,
-      "cur_d": "2026-11-13",
-      "old": 20.0,
-      "old_d": "2026-11-06",
-      "chg": 4.0
+      "cur": 23.5,
+      "cur_d": "2026-11-20",
+      "old": 24.0,
+      "old_d": "2026-11-13",
+      "chg": -0.5
      }
     ]
    },
    "OH": {
-    "cur": -0.5,
-    "chg": 8.5,
+    "cur": -8.5,
+    "chg": -8.0,
     "sheets": [
      {
       "sheet": "Barge_OhioRiver",
-      "cur": -0.5,
-      "cur_d": "2026-11-13",
-      "old": -9.0,
-      "old_d": "2026-11-06",
-      "chg": 8.5
+      "cur": -8.5,
+      "cur_d": "2026-11-20",
+      "old": -0.5,
+      "old_d": "2026-11-13",
+      "chg": -8.0
      }
     ]
    },
    "TN": {
-    "cur": 31.5,
-    "chg": 0.0,
+    "cur": 32.0,
+    "chg": 0.5,
     "sheets": [
      {
       "sheet": "Barge_MississippiRiver",
-      "cur": 31.5,
-      "cur_d": "2026-11-13",
+      "cur": 32.0,
+      "cur_d": "2026-11-20",
       "old": 31.5,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": 0.5
      }
     ]
    }
   },
   "export": {
    "LA": {
-    "cur": 94.5,
-    "chg": 1.0,
+    "cur": 92.5,
+    "chg": -2.0,
     "sheets": [
      {
       "sheet": "Corn_GulfCoastPortsLA",
-      "cur": 94.5,
-      "cur_d": "2026-11-13",
-      "old": 93.5,
-      "old_d": "2026-11-06",
-      "chg": 1.0
+      "cur": 92.5,
+      "cur_d": "2026-11-20",
+      "old": 94.5,
+      "old_d": "2026-11-13",
+      "chg": -2.0
      }
     ]
    }
   },
   "mills": {
    "IL": {
-    "cur": 9.75,
-    "chg": 1.0,
+    "cur": 11.75,
+    "chg": 2.0,
     "sheets": [
      {
       "sheet": "MillsProc_Central",
-      "cur": 3.5,
-      "cur_d": "2026-11-13",
-      "old": 0.0,
-      "old_d": "2026-11-06",
-      "chg": 3.5
+      "cur": 6.0,
+      "cur_d": "2026-11-20",
+      "old": 3.5,
+      "old_d": "2026-11-13",
+      "chg": 2.5
      },
      {
       "sheet": "MillsProc_Chicago",
-      "cur": 16.0,
-      "cur_d": "2026-11-13",
-      "old": 17.5,
-      "old_d": "2026-11-06",
-      "chg": -1.5
+      "cur": 17.5,
+      "cur_d": "2026-11-20",
+      "old": 16.0,
+      "old_d": "2026-11-13",
+      "chg": 1.5
      }
     ]
    },
@@ -2094,64 +2126,64 @@
      {
       "sheet": "MillsProc_Bladenboro",
       "cur": 1.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 1.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "MillsProc_Cofield",
       "cur": 25.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 25.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "MillsProc_Creswell",
       "cur": 55.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 55.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "MillsProc_Laurinburg",
       "cur": 1.05,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 1.05,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "MillsProc_Nashville",
       "cur": 90.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 90.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      },
      {
       "sheet": "MillsProc_Pantego",
       "cur": 40.0,
-      "cur_d": "2026-11-13",
+      "cur_d": "2026-11-20",
       "old": 40.0,
-      "old_d": "2026-11-06",
+      "old_d": "2026-11-13",
       "chg": 0.0
      }
     ]
    },
    "OR": {
-    "cur": 157.5,
-    "chg": 0.0,
+    "cur": 153.5,
+    "chg": -4.0,
     "sheets": [
      {
       "sheet": "MillsProc_PNW",
-      "cur": 157.5,
-      "cur_d": "2026-11-13",
+      "cur": 153.5,
+      "cur_d": "2026-11-20",
       "old": 157.5,
-      "old_d": "2026-11-06",
-      "chg": 0.0
+      "old_d": "2026-11-13",
+      "chg": -4.0
      }
     ]
    }
